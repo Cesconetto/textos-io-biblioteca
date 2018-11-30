@@ -1,0 +1,573 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<lista tokens-not-found="49" total-tokens="182">
+  <token string="O" total-classes="6">
+    <verbete palavra="o">pronome pessoal</verbete>
+    <verbete palavra="o">pronome demonstrativo</verbete>
+    <verbete palavra="o">artigo definido masculino singular</verbete>
+    <verbete palavra="o">adjetivo de dois gêneros</verbete>
+    <verbete palavra="o">símbolo</verbete>
+    <verbete palavra="o">substantivo masculino</verbete>
+  </token>
+  <token string="título" total-classes="1">
+    <verbete palavra="título">substantivo masculino</verbete>
+  </token>
+  <token string="de" total-classes="1">
+    <verbete palavra="de">preposição</verbete>
+  </token>
+  <token string="conde" total-classes="2">
+    <verbete palavra="conde">substantivo masculino</verbete>
+    <verbete palavra="condir">verbo transitivo</verbete>
+  </token>
+  <token string="de" total-classes="1">
+    <verbete palavra="de">preposição</verbete>
+  </token>
+  <token string="Rio" total-classes="3">
+    <verbete palavra="rio">substantivo masculino</verbete>
+    <verbete palavra="rir">verbo intransitivo e pronominal</verbete>
+    <verbete palavra="rir">verbo transitivo</verbete>
+  </token>
+  <token string="Maior" total-classes="1">
+    <verbete palavra="maior">adjetivo de dois gêneros</verbete>
+  </token>
+  <token string="foi" total-classes="13">
+    <verbete palavra="ir">verbo pronominal</verbete>
+    <verbete palavra="ir">verbo transitivo, intransitivo e pronominal</verbete>
+    <verbete palavra="ir">verbo intransitivo e pronominal</verbete>
+    <verbete palavra="ir">verbo auxiliar</verbete>
+    <verbete palavra="ir">verbo intransitivo</verbete>
+    <verbete palavra="ir">verbo copulativo</verbete>
+    <verbete palavra="ir">verbo transitivo</verbete>
+    <verbete palavra="Ir">símbolo</verbete>
+    <verbete palavra="ser">verbo auxiliar</verbete>
+    <verbete palavra="ser">verbo copulativo</verbete>
+    <verbete palavra="ser">verbo intransitivo</verbete>
+    <verbete palavra="ser">substantivo masculino</verbete>
+    <verbete palavra="ser">verbo transitivo</verbete>
+  </token>
+  <token string="instituído" total-classes="1">
+    <verbete palavra="instituir">verbo transitivo</verbete>
+  </token>
+  <token string="por" total-classes="1">
+    <verbete palavra="por">preposição</verbete>
+  </token>
+  <token string="decreto" total-classes="1">
+    <verbete palavra="decretar">verbo transitivo</verbete>
+  </token>
+  <token string="do" total-classes="1">
+    <verbete palavra="do">contração</verbete>
+  </token>
+  <token string="príncipe-regente"/>
+  <token string="D" total-classes="4">
+    <verbete palavra="d">adjetivo de dois gêneros</verbete>
+    <verbete palavra="d">abreviatura</verbete>
+    <verbete palavra="d">símbolo</verbete>
+    <verbete palavra="d">substantivo masculino</verbete>
+  </token>
+  <token string="João"/>
+  <token string="em" total-classes="1">
+    <verbete palavra="em">preposição</verbete>
+  </token>
+  <token string="nome" total-classes="1">
+    <verbete palavra="nome">substantivo masculino</verbete>
+  </token>
+  <token string="de" total-classes="1">
+    <verbete palavra="de">preposição</verbete>
+  </token>
+  <token string="sua" total-classes="3">
+    <verbete palavra="sua">pronome possessivo</verbete>
+    <verbete palavra="suar">verbo intransitivo</verbete>
+    <verbete palavra="suar">verbo transitivo</verbete>
+  </token>
+  <token string="mãe" total-classes="2">
+    <verbete palavra="mãe">adjetivo feminino</verbete>
+    <verbete palavra="mãe">substantivo feminino</verbete>
+  </token>
+  <token string="D" total-classes="4">
+    <verbete palavra="d">adjetivo de dois gêneros</verbete>
+    <verbete palavra="d">abreviatura</verbete>
+    <verbete palavra="d">símbolo</verbete>
+    <verbete palavra="d">substantivo masculino</verbete>
+  </token>
+  <token string="Maria" total-classes="2">
+    <verbete palavra="maria">adjetivo feminino e substantivo feminino</verbete>
+    <verbete palavra="maria">substantivo feminino</verbete>
+  </token>
+  <token string="I" total-classes="4">
+    <verbete palavra="i">adjetivo de dois gêneros</verbete>
+    <verbete palavra="i">símbolo</verbete>
+    <verbete palavra="i">advérbio</verbete>
+    <verbete palavra="i">substantivo masculino</verbete>
+  </token>
+  <token string="de" total-classes="1">
+    <verbete palavra="de">preposição</verbete>
+  </token>
+  <token string="Portugal"/>
+  <token string="em" total-classes="1">
+    <verbete palavra="em">preposição</verbete>
+  </token>
+  <token string="18"/>
+  <token string="de" total-classes="1">
+    <verbete palavra="de">preposição</verbete>
+  </token>
+  <token string="Novembro" total-classes="1">
+    <verbete palavra="novembro">substantivo masculino</verbete>
+  </token>
+  <token string="de" total-classes="1">
+    <verbete palavra="de">preposição</verbete>
+  </token>
+  <token string="1802"/>
+  <token string="e" total-classes="3">
+    <verbete palavra="e">conjunção coordenativa</verbete>
+    <verbete palavra="e">adjetivo de dois gêneros</verbete>
+    <verbete palavra="e">substantivo masculino</verbete>
+  </token>
+  <token string="confirmado" total-classes="2">
+    <verbete palavra="confirmar">verbo pronominal</verbete>
+    <verbete palavra="confirmar">verbo transitivo</verbete>
+  </token>
+  <token string="por" total-classes="1">
+    <verbete palavra="por">preposição</verbete>
+  </token>
+  <token string="carta" total-classes="2">
+    <verbete palavra="cartar">verbo transitivo</verbete>
+    <verbete palavra="carta">substantivo feminino</verbete>
+  </token>
+  <token string="de" total-classes="1">
+    <verbete palavra="de">preposição</verbete>
+  </token>
+  <token string="lei" total-classes="1">
+    <verbete palavra="lei">substantivo feminino</verbete>
+  </token>
+  <token string="de" total-classes="1">
+    <verbete palavra="de">preposição</verbete>
+  </token>
+  <token string="8"/>
+  <token string="de" total-classes="1">
+    <verbete palavra="de">preposição</verbete>
+  </token>
+  <token string="Janeiro" total-classes="1">
+    <verbete palavra="janeiro">substantivo masculino</verbete>
+  </token>
+  <token string="de" total-classes="1">
+    <verbete palavra="de">preposição</verbete>
+  </token>
+  <token string="1803"/>
+  <token string="em" total-classes="1">
+    <verbete palavra="em">preposição</verbete>
+  </token>
+  <token string="favor" total-classes="1">
+    <verbete palavra="favor">substantivo masculino</verbete>
+  </token>
+  <token string="de" total-classes="1">
+    <verbete palavra="de">preposição</verbete>
+  </token>
+  <token string="João"/>
+  <token string="Vicente" total-classes="1">
+    <verbete palavra="vicente">substantivo masculino</verbete>
+  </token>
+  <token string="de" total-classes="1">
+    <verbete palavra="de">preposição</verbete>
+  </token>
+  <token string="Saldanha"/>
+  <token string="DOliveira"/>
+  <token string="e" total-classes="3">
+    <verbete palavra="e">conjunção coordenativa</verbete>
+    <verbete palavra="e">adjetivo de dois gêneros</verbete>
+    <verbete palavra="e">substantivo masculino</verbete>
+  </token>
+  <token string="Sousa" total-classes="1">
+    <verbete palavra="sousa">substantivo masculino</verbete>
+  </token>
+  <token string="Juzarte"/>
+  <token string="Figueira" total-classes="1">
+    <verbete palavra="figueira">substantivo feminino</verbete>
+  </token>
+  <token string="Usaram" total-classes="2">
+    <verbete palavra="usar">verbo pronominal</verbete>
+    <verbete palavra="usar">verbo transitivo</verbete>
+  </token>
+  <token string="o" total-classes="6">
+    <verbete palavra="o">pronome pessoal</verbete>
+    <verbete palavra="o">pronome demonstrativo</verbete>
+    <verbete palavra="o">artigo definido masculino singular</verbete>
+    <verbete palavra="o">adjetivo de dois gêneros</verbete>
+    <verbete palavra="o">símbolo</verbete>
+    <verbete palavra="o">substantivo masculino</verbete>
+  </token>
+  <token string="títuloJoão"/>
+  <token string="Vicente" total-classes="1">
+    <verbete palavra="vicente">substantivo masculino</verbete>
+  </token>
+  <token string="de" total-classes="1">
+    <verbete palavra="de">preposição</verbete>
+  </token>
+  <token string="Saldanha"/>
+  <token string="DOliveira"/>
+  <token string="e" total-classes="3">
+    <verbete palavra="e">conjunção coordenativa</verbete>
+    <verbete palavra="e">adjetivo de dois gêneros</verbete>
+    <verbete palavra="e">substantivo masculino</verbete>
+  </token>
+  <token string="Sousa" total-classes="1">
+    <verbete palavra="sousa">substantivo masculino</verbete>
+  </token>
+  <token string="Juzarte"/>
+  <token string="Figueira" total-classes="1">
+    <verbete palavra="figueira">substantivo feminino</verbete>
+  </token>
+  <token string="1746–1804"/>
+  <token string="casado" total-classes="4">
+    <verbete palavra="casado">adjetivo</verbete>
+    <verbete palavra="casado">adjetivo e substantivo masculino</verbete>
+    <verbete palavra="casar">verbo transitivo, intransitivo e pronominal</verbete>
+    <verbete palavra="casar">verbo transitivo</verbete>
+  </token>
+  <token string="com" total-classes="1">
+    <verbete palavra="com">preposição</verbete>
+  </token>
+  <token string="Maria" total-classes="2">
+    <verbete palavra="maria">adjetivo feminino e substantivo feminino</verbete>
+    <verbete palavra="maria">substantivo feminino</verbete>
+  </token>
+  <token string="Amália"/>
+  <token string="de" total-classes="1">
+    <verbete palavra="de">preposição</verbete>
+  </token>
+  <token string="Carvalho" total-classes="1">
+    <verbete palavra="carvalho">substantivo masculino</verbete>
+  </token>
+  <token string="e" total-classes="3">
+    <verbete palavra="e">conjunção coordenativa</verbete>
+    <verbete palavra="e">adjetivo de dois gêneros</verbete>
+    <verbete palavra="e">substantivo masculino</verbete>
+  </token>
+  <token string="Daun"/>
+  <token string="filha" total-classes="3">
+    <verbete palavra="filha">substantivo feminino</verbete>
+    <verbete palavra="filha">substantivo feminino</verbete>
+    <verbete palavra="filha">substantivo feminino</verbete>
+  </token>
+  <token string="do" total-classes="1">
+    <verbete palavra="do">contração</verbete>
+  </token>
+  <token string="marquês" total-classes="1">
+    <verbete palavra="marquês">substantivo masculino</verbete>
+  </token>
+  <token string="de" total-classes="1">
+    <verbete palavra="de">preposição</verbete>
+  </token>
+  <token string="Pombal" total-classes="1">
+    <verbete palavra="pombal">substantivo masculino</verbete>
+  </token>
+  <token string="António"/>
+  <token string="de" total-classes="1">
+    <verbete palavra="de">preposição</verbete>
+  </token>
+  <token string="Saldanha"/>
+  <token string="de" total-classes="1">
+    <verbete palavra="de">preposição</verbete>
+  </token>
+  <token string="DOliveira"/>
+  <token string="e" total-classes="3">
+    <verbete palavra="e">conjunção coordenativa</verbete>
+    <verbete palavra="e">adjetivo de dois gêneros</verbete>
+    <verbete palavra="e">substantivo masculino</verbete>
+  </token>
+  <token string="Sousa" total-classes="1">
+    <verbete palavra="sousa">substantivo masculino</verbete>
+  </token>
+  <token string="1776–1825"/>
+  <token string="casado" total-classes="4">
+    <verbete palavra="casado">adjetivo</verbete>
+    <verbete palavra="casado">adjetivo e substantivo masculino</verbete>
+    <verbete palavra="casar">verbo transitivo, intransitivo e pronominal</verbete>
+    <verbete palavra="casar">verbo transitivo</verbete>
+  </token>
+  <token string="com" total-classes="1">
+    <verbete palavra="com">preposição</verbete>
+  </token>
+  <token string="Maria" total-classes="2">
+    <verbete palavra="maria">adjetivo feminino e substantivo feminino</verbete>
+    <verbete palavra="maria">substantivo feminino</verbete>
+  </token>
+  <token string="Leonor"/>
+  <token string="Ernestina"/>
+  <token string="de" total-classes="1">
+    <verbete palavra="de">preposição</verbete>
+  </token>
+  <token string="Carvalho" total-classes="1">
+    <verbete palavra="carvalho">substantivo masculino</verbete>
+  </token>
+  <token string="Daun"/>
+  <token string="e" total-classes="3">
+    <verbete palavra="e">conjunção coordenativa</verbete>
+    <verbete palavra="e">adjetivo de dois gêneros</verbete>
+    <verbete palavra="e">substantivo masculino</verbete>
+  </token>
+  <token string="Lorena"/>
+  <token string="neta" total-classes="2">
+    <verbete palavra="neta">substantivo feminino</verbete>
+    <verbete palavra="neta">substantivo feminino</verbete>
+  </token>
+  <token string="do" total-classes="1">
+    <verbete palavra="do">contração</verbete>
+  </token>
+  <token string="marquês" total-classes="1">
+    <verbete palavra="marquês">substantivo masculino</verbete>
+  </token>
+  <token string="de" total-classes="1">
+    <verbete palavra="de">preposição</verbete>
+  </token>
+  <token string="Pombal" total-classes="1">
+    <verbete palavra="pombal">substantivo masculino</verbete>
+  </token>
+  <token string="D" total-classes="4">
+    <verbete palavra="d">adjetivo de dois gêneros</verbete>
+    <verbete palavra="d">abreviatura</verbete>
+    <verbete palavra="d">símbolo</verbete>
+    <verbete palavra="d">substantivo masculino</verbete>
+  </token>
+  <token string="João"/>
+  <token string="Maria" total-classes="2">
+    <verbete palavra="maria">adjetivo feminino e substantivo feminino</verbete>
+    <verbete palavra="maria">substantivo feminino</verbete>
+  </token>
+  <token string="de" total-classes="1">
+    <verbete palavra="de">preposição</verbete>
+  </token>
+  <token string="Saldanha"/>
+  <token string="DOliveira"/>
+  <token string="e" total-classes="3">
+    <verbete palavra="e">conjunção coordenativa</verbete>
+    <verbete palavra="e">adjetivo de dois gêneros</verbete>
+    <verbete palavra="e">substantivo masculino</verbete>
+  </token>
+  <token string="Sousa" total-classes="1">
+    <verbete palavra="sousa">substantivo masculino</verbete>
+  </token>
+  <token string="1811–1872"/>
+  <token string="casado" total-classes="4">
+    <verbete palavra="casado">adjetivo</verbete>
+    <verbete palavra="casado">adjetivo e substantivo masculino</verbete>
+    <verbete palavra="casar">verbo transitivo, intransitivo e pronominal</verbete>
+    <verbete palavra="casar">verbo transitivo</verbete>
+  </token>
+  <token string="com" total-classes="1">
+    <verbete palavra="com">preposição</verbete>
+  </token>
+  <token string="Isabel" total-classes="1">
+    <verbete palavra="isabel">adjetivo de dois gêneros</verbete>
+  </token>
+  <token string="Maria" total-classes="2">
+    <verbete palavra="maria">adjetivo feminino e substantivo feminino</verbete>
+    <verbete palavra="maria">substantivo feminino</verbete>
+  </token>
+  <token string="de" total-classes="1">
+    <verbete palavra="de">preposição</verbete>
+  </token>
+  <token string="Sousa" total-classes="1">
+    <verbete palavra="sousa">substantivo masculino</verbete>
+  </token>
+  <token string="Botelho" total-classes="1">
+    <verbete palavra="botelho">substantivo masculino</verbete>
+  </token>
+  <token string="Mourão" total-classes="1">
+    <verbete palavra="mourão">substantivo masculino</verbete>
+  </token>
+  <token string="e" total-classes="3">
+    <verbete palavra="e">conjunção coordenativa</verbete>
+    <verbete palavra="e">adjetivo de dois gêneros</verbete>
+    <verbete palavra="e">substantivo masculino</verbete>
+  </token>
+  <token string="Vasconcelos"/>
+  <token string="filha" total-classes="3">
+    <verbete palavra="filha">substantivo feminino</verbete>
+    <verbete palavra="filha">substantivo feminino</verbete>
+    <verbete palavra="filha">substantivo feminino</verbete>
+  </token>
+  <token string="de" total-classes="1">
+    <verbete palavra="de">preposição</verbete>
+  </token>
+  <token string="José"/>
+  <token string="Luís" total-classes="1">
+    <verbete palavra="luís">substantivo masculino</verbete>
+  </token>
+  <token string="de" total-classes="1">
+    <verbete palavra="de">preposição</verbete>
+  </token>
+  <token string="Sousa" total-classes="1">
+    <verbete palavra="sousa">substantivo masculino</verbete>
+  </token>
+  <token string="Botelho" total-classes="1">
+    <verbete palavra="botelho">substantivo masculino</verbete>
+  </token>
+  <token string="Mourão" total-classes="1">
+    <verbete palavra="mourão">substantivo masculino</verbete>
+  </token>
+  <token string="e" total-classes="3">
+    <verbete palavra="e">conjunção coordenativa</verbete>
+    <verbete palavra="e">adjetivo de dois gêneros</verbete>
+    <verbete palavra="e">substantivo masculino</verbete>
+  </token>
+  <token string="Vasconcelos"/>
+  <token string="conde" total-classes="2">
+    <verbete palavra="conde">substantivo masculino</verbete>
+    <verbete palavra="condir">verbo transitivo</verbete>
+  </token>
+  <token string="de" total-classes="1">
+    <verbete palavra="de">preposição</verbete>
+  </token>
+  <token string="Vila" total-classes="1">
+    <verbete palavra="vila">substantivo feminino</verbete>
+  </token>
+  <token string="Real" total-classes="5">
+    <verbete palavra="real">substantivo masculino</verbete>
+    <verbete palavra="real">adjetivo de dois gêneros</verbete>
+    <verbete palavra="real">substantivo masculino</verbete>
+    <verbete palavra="real">adjetivo de dois gêneros</verbete>
+    <verbete palavra="real">substantivo masculino</verbete>
+  </token>
+  <token string="D" total-classes="4">
+    <verbete palavra="d">adjetivo de dois gêneros</verbete>
+    <verbete palavra="d">abreviatura</verbete>
+    <verbete palavra="d">símbolo</verbete>
+    <verbete palavra="d">substantivo masculino</verbete>
+  </token>
+  <token string="António"/>
+  <token string="José"/>
+  <token string="de" total-classes="1">
+    <verbete palavra="de">preposição</verbete>
+  </token>
+  <token string="Saldanha"/>
+  <token string="Juzarte"/>
+  <token string="DOliveira"/>
+  <token string="e" total-classes="3">
+    <verbete palavra="e">conjunção coordenativa</verbete>
+    <verbete palavra="e">adjetivo de dois gêneros</verbete>
+    <verbete palavra="e">substantivo masculino</verbete>
+  </token>
+  <token string="Sousa" total-classes="1">
+    <verbete palavra="sousa">substantivo masculino</verbete>
+  </token>
+  <token string="1836–1891"/>
+  <token string="também" total-classes="2">
+    <verbete palavra="também">advérbio</verbete>
+    <verbete palavra="também">conjunção</verbete>
+  </token>
+  <token string="primeiro" total-classes="3">
+    <verbete palavra="primeiro">adjetivo</verbete>
+    <verbete palavra="primeiro">advérbio</verbete>
+    <verbete palavra="primeiro">substantivo masculino</verbete>
+  </token>
+  <token string="marquês" total-classes="1">
+    <verbete palavra="marquês">substantivo masculino</verbete>
+  </token>
+  <token string="de" total-classes="1">
+    <verbete palavra="de">preposição</verbete>
+  </token>
+  <token string="Rio" total-classes="3">
+    <verbete palavra="rio">substantivo masculino</verbete>
+    <verbete palavra="rir">verbo intransitivo e pronominal</verbete>
+    <verbete palavra="rir">verbo transitivo</verbete>
+  </token>
+  <token string="Maior" total-classes="1">
+    <verbete palavra="maior">adjetivo de dois gêneros</verbete>
+  </token>
+  <token string="D" total-classes="4">
+    <verbete palavra="d">adjetivo de dois gêneros</verbete>
+    <verbete palavra="d">abreviatura</verbete>
+    <verbete palavra="d">símbolo</verbete>
+    <verbete palavra="d">substantivo masculino</verbete>
+  </token>
+  <token string="João"/>
+  <token string="de" total-classes="1">
+    <verbete palavra="de">preposição</verbete>
+  </token>
+  <token string="Saldanha"/>
+  <token string="Juzarte"/>
+  <token string="DOliveira"/>
+  <token string="e" total-classes="3">
+    <verbete palavra="e">conjunção coordenativa</verbete>
+    <verbete palavra="e">adjetivo de dois gêneros</verbete>
+    <verbete palavra="e">substantivo masculino</verbete>
+  </token>
+  <token string="Sousa" total-classes="1">
+    <verbete palavra="sousa">substantivo masculino</verbete>
+  </token>
+  <token string="1878–1970"/>
+  <token string="também" total-classes="2">
+    <verbete palavra="também">advérbio</verbete>
+    <verbete palavra="também">conjunção</verbete>
+  </token>
+  <token string="segundo" total-classes="4">
+    <verbete palavra="segundo">preposição</verbete>
+    <verbete palavra="segundo">advérbio</verbete>
+    <verbete palavra="segundo">substantivo masculino</verbete>
+    <verbete palavra="segundo">adjetivo, numeral ordinal e substantivo masculino</verbete>
+  </token>
+  <token string="marquês" total-classes="1">
+    <verbete palavra="marquês">substantivo masculino</verbete>
+  </token>
+  <token string="de" total-classes="1">
+    <verbete palavra="de">preposição</verbete>
+  </token>
+  <token string="Rio" total-classes="3">
+    <verbete palavra="rio">substantivo masculino</verbete>
+    <verbete palavra="rir">verbo intransitivo e pronominal</verbete>
+    <verbete palavra="rir">verbo transitivo</verbete>
+  </token>
+  <token string="MaiorApós"/>
+  <token string="a" total-classes="7">
+    <verbete palavra="a">pronome demonstrativo</verbete>
+    <verbete palavra="a">preposição</verbete>
+    <verbete palavra="a">pronome pessoal feminino</verbete>
+    <verbete palavra="a">artigo definido</verbete>
+    <verbete palavra="a">adjetivo de dois gêneros</verbete>
+    <verbete palavra="a">abreviatura</verbete>
+    <verbete palavra="a">substantivo masculino</verbete>
+  </token>
+  <token string="implantação" total-classes="1">
+    <verbete palavra="implantação">substantivo feminino</verbete>
+  </token>
+  <token string="de" total-classes="1">
+    <verbete palavra="de">preposição</verbete>
+  </token>
+  <token string="República"/>
+  <token string="portuguesa" total-classes="1">
+    <verbete palavra="portuguesa">substantivo feminino</verbete>
+  </token>
+  <token string="é" total-classes="6">
+    <verbete palavra="é">substantivo masculino</verbete>
+    <verbete palavra="ser">verbo auxiliar</verbete>
+    <verbete palavra="ser">verbo copulativo</verbete>
+    <verbete palavra="ser">verbo intransitivo</verbete>
+    <verbete palavra="ser">substantivo masculino</verbete>
+    <verbete palavra="ser">verbo transitivo</verbete>
+  </token>
+  <token string="pretendente" total-classes="1">
+    <verbete palavra="pretendente">adjetivo de dois gêneros e substantivo de dois gêneros</verbete>
+  </token>
+  <token string="D" total-classes="4">
+    <verbete palavra="d">adjetivo de dois gêneros</verbete>
+    <verbete palavra="d">abreviatura</verbete>
+    <verbete palavra="d">símbolo</verbete>
+    <verbete palavra="d">substantivo masculino</verbete>
+  </token>
+  <token string="João"/>
+  <token string="Vicente" total-classes="1">
+    <verbete palavra="vicente">substantivo masculino</verbete>
+  </token>
+  <token string="de" total-classes="1">
+    <verbete palavra="de">preposição</verbete>
+  </token>
+  <token string="Saldanha"/>
+  <token string="DOliveira"/>
+  <token string="e" total-classes="3">
+    <verbete palavra="e">conjunção coordenativa</verbete>
+    <verbete palavra="e">adjetivo de dois gêneros</verbete>
+    <verbete palavra="e">substantivo masculino</verbete>
+  </token>
+  <token string="Sousa" total-classes="1">
+    <verbete palavra="sousa">substantivo masculino</verbete>
+  </token>
+</lista>

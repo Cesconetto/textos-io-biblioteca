@@ -1,0 +1,771 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<lista tokens-not-found="26" total-tokens="194">
+  <token string="As" total-classes="7">
+    <verbete palavra="a">pronome demonstrativo</verbete>
+    <verbete palavra="a">preposição</verbete>
+    <verbete palavra="a">pronome pessoal feminino</verbete>
+    <verbete palavra="a">artigo definido</verbete>
+    <verbete palavra="a">adjetivo de dois gêneros</verbete>
+    <verbete palavra="a">abreviatura</verbete>
+    <verbete palavra="a">substantivo masculino</verbete>
+  </token>
+  <token string="relações" total-classes="1">
+    <verbete palavra="relação">substantivo feminino</verbete>
+  </token>
+  <token string="da" total-classes="1">
+    <verbete palavra="do">contração</verbete>
+  </token>
+  <token string="Guiné" total-classes="1">
+    <verbete palavra="guiné">substantivo feminino</verbete>
+  </token>
+  <token string="com" total-classes="1">
+    <verbete palavra="com">preposição</verbete>
+  </token>
+  <token string="outros" total-classes="1">
+    <verbete palavra="outro">determinante e pronome indefinido</verbete>
+  </token>
+  <token string="países" total-classes="1">
+    <verbete palavra="país">substantivo masculino</verbete>
+  </token>
+  <token string="inclusive" total-classes="1">
+    <verbete palavra="inclusive">advérbio</verbete>
+  </token>
+  <token string="com" total-classes="1">
+    <verbete palavra="com">preposição</verbete>
+  </token>
+  <token string="os" total-classes="1">
+    <verbete palavra="Os">símbolo</verbete>
+  </token>
+  <token string="vizinhos" total-classes="2">
+    <verbete palavra="vil">adjetivo de dois gêneros</verbete>
+    <verbete palavra="vil">substantivo de dois gêneros</verbete>
+  </token>
+  <token string="Oeste" total-classes="1">
+    <verbete palavra="oeste">substantivo masculino</verbete>
+  </token>
+  <token string="africanos"/>
+  <token string="têm" total-classes="4">
+    <verbete palavra="ter">verbo pronominal</verbete>
+    <verbete palavra="ter">verbo auxiliar</verbete>
+    <verbete palavra="ter">verbo intransitivo</verbete>
+    <verbete palavra="ter">verbo transitivo</verbete>
+  </token>
+  <token string="melhorado" total-classes="3">
+    <verbete palavra="melhorado">adjetivo</verbete>
+    <verbete palavra="melhorar">verbo intransitivo</verbete>
+    <verbete palavra="melhorar">verbo transitivo</verbete>
+  </token>
+  <token string="de" total-classes="1">
+    <verbete palavra="de">preposição</verbete>
+  </token>
+  <token string="forma" total-classes="4">
+    <verbete palavra="forma">substantivo feminino</verbete>
+    <verbete palavra="formar">verbo pronominal</verbete>
+    <verbete palavra="formar">verbo intransitivo</verbete>
+    <verbete palavra="formar">verbo transitivo</verbete>
+  </token>
+  <token string="constante" total-classes="1">
+    <verbete palavra="constante">adjetivo de dois gêneros</verbete>
+  </token>
+  <token string="desde" total-classes="1">
+    <verbete palavra="desde">preposição</verbete>
+  </token>
+  <token string="1985"/>
+  <token string="Guiné" total-classes="1">
+    <verbete palavra="guiné">substantivo feminino</verbete>
+  </token>
+  <token string="restabeleceu"/>
+  <token string="as" total-classes="7">
+    <verbete palavra="a">pronome demonstrativo</verbete>
+    <verbete palavra="a">preposição</verbete>
+    <verbete palavra="a">pronome pessoal feminino</verbete>
+    <verbete palavra="a">artigo definido</verbete>
+    <verbete palavra="a">adjetivo de dois gêneros</verbete>
+    <verbete palavra="a">abreviatura</verbete>
+    <verbete palavra="a">substantivo masculino</verbete>
+  </token>
+  <token string="relações" total-classes="1">
+    <verbete palavra="relação">substantivo feminino</verbete>
+  </token>
+  <token string="com" total-classes="1">
+    <verbete palavra="com">preposição</verbete>
+  </token>
+  <token string="a" total-classes="7">
+    <verbete palavra="a">pronome demonstrativo</verbete>
+    <verbete palavra="a">preposição</verbete>
+    <verbete palavra="a">pronome pessoal feminino</verbete>
+    <verbete palavra="a">artigo definido</verbete>
+    <verbete palavra="a">adjetivo de dois gêneros</verbete>
+    <verbete palavra="a">abreviatura</verbete>
+    <verbete palavra="a">substantivo masculino</verbete>
+  </token>
+  <token string="França" total-classes="3">
+    <verbete palavra="frança">substantivo feminino</verbete>
+    <verbete palavra="frança">adjetivo de dois gêneros</verbete>
+    <verbete palavra="frança">adjetivo de dois gêneros e substantivo de dois gêneros</verbete>
+  </token>
+  <token string="e" total-classes="3">
+    <verbete palavra="e">conjunção coordenativa</verbete>
+    <verbete palavra="e">adjetivo de dois gêneros</verbete>
+    <verbete palavra="e">substantivo masculino</verbete>
+  </token>
+  <token string="Alemanha"/>
+  <token string="em" total-classes="1">
+    <verbete palavra="em">preposição</verbete>
+  </token>
+  <token string="1975"/>
+  <token string="e" total-classes="3">
+    <verbete palavra="e">conjunção coordenativa</verbete>
+    <verbete palavra="e">adjetivo de dois gêneros</verbete>
+    <verbete palavra="e">substantivo masculino</verbete>
+  </token>
+  <token string="com" total-classes="1">
+    <verbete palavra="com">preposição</verbete>
+  </token>
+  <token string="os" total-classes="1">
+    <verbete palavra="Os">símbolo</verbete>
+  </token>
+  <token string="vizinhos" total-classes="2">
+    <verbete palavra="vil">adjetivo de dois gêneros</verbete>
+    <verbete palavra="vil">substantivo de dois gêneros</verbete>
+  </token>
+  <token string="Costa" total-classes="1">
+    <verbete palavra="costa">substantivo feminino</verbete>
+  </token>
+  <token string="do" total-classes="1">
+    <verbete palavra="do">contração</verbete>
+  </token>
+  <token string="Marfim" total-classes="1">
+    <verbete palavra="marfim">substantivo masculino</verbete>
+  </token>
+  <token string="e" total-classes="3">
+    <verbete palavra="e">conjunção coordenativa</verbete>
+    <verbete palavra="e">adjetivo de dois gêneros</verbete>
+    <verbete palavra="e">substantivo masculino</verbete>
+  </token>
+  <token string="Senegal"/>
+  <token string="em" total-classes="1">
+    <verbete palavra="em">preposição</verbete>
+  </token>
+  <token string="1978"/>
+  <token string="Guiné" total-classes="1">
+    <verbete palavra="guiné">substantivo feminino</verbete>
+  </token>
+  <token string="tem" total-classes="4">
+    <verbete palavra="ter">verbo pronominal</verbete>
+    <verbete palavra="ter">verbo auxiliar</verbete>
+    <verbete palavra="ter">verbo intransitivo</verbete>
+    <verbete palavra="ter">verbo transitivo</verbete>
+  </token>
+  <token string="sido" total-classes="5">
+    <verbete palavra="ser">verbo auxiliar</verbete>
+    <verbete palavra="ser">verbo copulativo</verbete>
+    <verbete palavra="ser">verbo intransitivo</verbete>
+    <verbete palavra="ser">substantivo masculino</verbete>
+    <verbete palavra="ser">verbo transitivo</verbete>
+  </token>
+  <token string="ativa" total-classes="1">
+    <verbete palavra="ativa">substantivo feminino</verbete>
+  </token>
+  <token string="nos" total-classes="1">
+    <verbete palavra="nos">pronome pessoal de dois gêneros</verbete>
+  </token>
+  <token string="esforços" total-classes="3">
+    <verbete palavra="esforço">substantivo masculino</verbete>
+    <verbete palavra="esforçar">verbo intransitivo e pronominal</verbete>
+    <verbete palavra="esforçar">verbo transitivo</verbete>
+  </token>
+  <token string="em" total-classes="1">
+    <verbete palavra="em">preposição</verbete>
+  </token>
+  <token string="direção" total-classes="1">
+    <verbete palavra="direção">substantivo feminino</verbete>
+  </token>
+  <token string="à" total-classes="1">
+    <verbete palavra="à">contração</verbete>
+  </token>
+  <token string="integração" total-classes="1">
+    <verbete palavra="integração">substantivo feminino</verbete>
+  </token>
+  <token string="regional" total-classes="1">
+    <verbete palavra="regional">adjetivo de dois gêneros</verbete>
+  </token>
+  <token string="e" total-classes="3">
+    <verbete palavra="e">conjunção coordenativa</verbete>
+    <verbete palavra="e">adjetivo de dois gêneros</verbete>
+    <verbete palavra="e">substantivo masculino</verbete>
+  </token>
+  <token string="cooperação" total-classes="1">
+    <verbete palavra="cooperação">substantivo feminino</verbete>
+  </token>
+  <token string="especialmente" total-classes="1">
+    <verbete palavra="especialmente">advérbio</verbete>
+  </token>
+  <token string="no" total-classes="2">
+    <verbete palavra="no">pronome pessoal</verbete>
+    <verbete palavra="no">contração</verbete>
+  </token>
+  <token string="que" total-classes="14">
+    <verbete palavra="que">determinante interrogativo</verbete>
+    <verbete palavra="que">preposição</verbete>
+    <verbete palavra="que">advérbio</verbete>
+    <verbete palavra="que">pronome interrogativo</verbete>
+    <verbete palavra="que">pronome relativo</verbete>
+    <verbete palavra="que">pronome indefinido</verbete>
+    <verbete palavra="que">conjunção final</verbete>
+    <verbete palavra="que">conjunção adversativa</verbete>
+    <verbete palavra="que">conjunção copulativa</verbete>
+    <verbete palavra="que">conjunção consecutiva</verbete>
+    <verbete palavra="que">conjunção integrante</verbete>
+    <verbete palavra="que">conjunção causal</verbete>
+    <verbete palavra="que">conjunção</verbete>
+    <verbete palavra="que">conjunção comparativa</verbete>
+  </token>
+  <token string="se" total-classes="2">
+    <verbete palavra="SE">símbolo</verbete>
+    <verbete palavra="SE">sigla</verbete>
+  </token>
+  <token string="refere"/>
+  <token string="à" total-classes="1">
+    <verbete palavra="à">contração</verbete>
+  </token>
+  <token string="Organização" total-classes="1">
+    <verbete palavra="organização">substantivo feminino</verbete>
+  </token>
+  <token string="de" total-classes="1">
+    <verbete palavra="de">preposição</verbete>
+  </token>
+  <token string="Unidade" total-classes="1">
+    <verbete palavra="unidade">substantivo feminino</verbete>
+  </token>
+  <token string="Africana"/>
+  <token string="e" total-classes="3">
+    <verbete palavra="e">conjunção coordenativa</verbete>
+    <verbete palavra="e">adjetivo de dois gêneros</verbete>
+    <verbete palavra="e">substantivo masculino</verbete>
+  </token>
+  <token string="o" total-classes="6">
+    <verbete palavra="o">pronome pessoal</verbete>
+    <verbete palavra="o">pronome demonstrativo</verbete>
+    <verbete palavra="o">artigo definido masculino singular</verbete>
+    <verbete palavra="o">adjetivo de dois gêneros</verbete>
+    <verbete palavra="o">símbolo</verbete>
+    <verbete palavra="o">substantivo masculino</verbete>
+  </token>
+  <token string="Organização" total-classes="1">
+    <verbete palavra="organização">substantivo feminino</verbete>
+  </token>
+  <token string="Econômica" total-classes="1">
+    <verbete palavra="econômico">adjetivo</verbete>
+  </token>
+  <token string="dos" total-classes="1">
+    <verbete palavra="do">contração</verbete>
+  </token>
+  <token string="Estados" total-classes="5">
+    <verbete palavra="estar">verbo auxiliar</verbete>
+    <verbete palavra="estar">verbo copulativo</verbete>
+    <verbete palavra="estar">substantivo masculino</verbete>
+    <verbete palavra="estar">verbo transitivo</verbete>
+    <verbete palavra="estado">substantivo masculino</verbete>
+  </token>
+  <token string="do" total-classes="1">
+    <verbete palavra="do">contração</verbete>
+  </token>
+  <token string="Oeste" total-classes="1">
+    <verbete palavra="oeste">substantivo masculino</verbete>
+  </token>
+  <token string="Africano"/>
+  <token string="CEDEAO"/>
+  <token string="A" total-classes="7">
+    <verbete palavra="a">pronome demonstrativo</verbete>
+    <verbete palavra="a">preposição</verbete>
+    <verbete palavra="a">pronome pessoal feminino</verbete>
+    <verbete palavra="a">artigo definido</verbete>
+    <verbete palavra="a">adjetivo de dois gêneros</verbete>
+    <verbete palavra="a">abreviatura</verbete>
+    <verbete palavra="a">substantivo masculino</verbete>
+  </token>
+  <token string="Guiné" total-classes="1">
+    <verbete palavra="guiné">substantivo feminino</verbete>
+  </token>
+  <token string="assume" total-classes="2">
+    <verbete palavra="assumir">verbo pronominal</verbete>
+    <verbete palavra="assumir">verbo transitivo</verbete>
+  </token>
+  <token string="o" total-classes="6">
+    <verbete palavra="o">pronome pessoal</verbete>
+    <verbete palavra="o">pronome demonstrativo</verbete>
+    <verbete palavra="o">artigo definido masculino singular</verbete>
+    <verbete palavra="o">adjetivo de dois gêneros</verbete>
+    <verbete palavra="o">símbolo</verbete>
+    <verbete palavra="o">substantivo masculino</verbete>
+  </token>
+  <token string="seu" total-classes="3">
+    <verbete palavra="seu">substantivo masculino</verbete>
+    <verbete palavra="seu">determinante e pronome possessivo</verbete>
+    <verbete palavra="seu">substantivo masculino</verbete>
+  </token>
+  <token string="papel" total-classes="4">
+    <verbete palavra="papel">adjetivo de dois gêneros</verbete>
+    <verbete palavra="papel">substantivo de dois gêneros</verbete>
+    <verbete palavra="papel">substantivo masculino</verbete>
+    <verbete palavra="papel">substantivo masculino</verbete>
+  </token>
+  <token string="em" total-classes="1">
+    <verbete palavra="em">preposição</verbete>
+  </token>
+  <token string="uma" total-classes="1">
+    <verbete palavra="uma">substantivo feminino</verbete>
+  </token>
+  <token string="variedade" total-classes="1">
+    <verbete palavra="variedade">substantivo feminino</verbete>
+  </token>
+  <token string="de" total-classes="1">
+    <verbete palavra="de">preposição</verbete>
+  </token>
+  <token string="organizações" total-classes="1">
+    <verbete palavra="organização">substantivo feminino</verbete>
+  </token>
+  <token string="internacionais" total-classes="2">
+    <verbete palavra="internacional">adjetivo de dois gêneros</verbete>
+    <verbete palavra="internacional">substantivo feminino</verbete>
+  </token>
+  <token string="com" total-classes="1">
+    <verbete palavra="com">preposição</verbete>
+  </token>
+  <token string="seriedade" total-classes="1">
+    <verbete palavra="seriedade">substantivo feminino</verbete>
+  </token>
+  <token string="e" total-classes="3">
+    <verbete palavra="e">conjunção coordenativa</verbete>
+    <verbete palavra="e">adjetivo de dois gêneros</verbete>
+    <verbete palavra="e">substantivo masculino</verbete>
+  </token>
+  <token string="participa" total-classes="2">
+    <verbete palavra="participar">verbo intransitivo</verbete>
+    <verbete palavra="participar">verbo transitivo</verbete>
+  </token>
+  <token string="ativamente" total-classes="1">
+    <verbete palavra="ativamente">advérbio</verbete>
+  </token>
+  <token string="em" total-classes="1">
+    <verbete palavra="em">preposição</verbete>
+  </token>
+  <token string="suas" total-classes="2">
+    <verbete palavra="suar">verbo intransitivo</verbete>
+    <verbete palavra="suar">verbo transitivo</verbete>
+  </token>
+  <token string="deliberações"/>
+  <token string="e" total-classes="3">
+    <verbete palavra="e">conjunção coordenativa</verbete>
+    <verbete palavra="e">adjetivo de dois gêneros</verbete>
+    <verbete palavra="e">substantivo masculino</verbete>
+  </token>
+  <token string="decisões" total-classes="1">
+    <verbete palavra="decisão">substantivo feminino</verbete>
+  </token>
+  <token string="A" total-classes="7">
+    <verbete palavra="a">pronome demonstrativo</verbete>
+    <verbete palavra="a">preposição</verbete>
+    <verbete palavra="a">pronome pessoal feminino</verbete>
+    <verbete palavra="a">artigo definido</verbete>
+    <verbete palavra="a">adjetivo de dois gêneros</verbete>
+    <verbete palavra="a">abreviatura</verbete>
+    <verbete palavra="a">substantivo masculino</verbete>
+  </token>
+  <token string="Guiné" total-classes="1">
+    <verbete palavra="guiné">substantivo feminino</verbete>
+  </token>
+  <token string="tem" total-classes="4">
+    <verbete palavra="ter">verbo pronominal</verbete>
+    <verbete palavra="ter">verbo auxiliar</verbete>
+    <verbete palavra="ter">verbo intransitivo</verbete>
+    <verbete palavra="ter">verbo transitivo</verbete>
+  </token>
+  <token string="participado" total-classes="2">
+    <verbete palavra="participar">verbo intransitivo</verbete>
+    <verbete palavra="participar">verbo transitivo</verbete>
+  </token>
+  <token string="tanto" total-classes="3">
+    <verbete palavra="tanto">pronome indefinido</verbete>
+    <verbete palavra="tanto">advérbio</verbete>
+    <verbete palavra="tanto">substantivo masculino</verbete>
+  </token>
+  <token string="em" total-classes="1">
+    <verbete palavra="em">preposição</verbete>
+  </token>
+  <token string="esforços" total-classes="3">
+    <verbete palavra="esforço">substantivo masculino</verbete>
+    <verbete palavra="esforçar">verbo intransitivo e pronominal</verbete>
+    <verbete palavra="esforçar">verbo transitivo</verbete>
+  </token>
+  <token string="diplomáticos" total-classes="2">
+    <verbete palavra="diplomático">adjetivo</verbete>
+    <verbete palavra="diplomático">substantivo masculino</verbete>
+  </token>
+  <token string="como" total-classes="8">
+    <verbete palavra="como">advérbio</verbete>
+    <verbete palavra="como">substantivo masculino</verbete>
+    <verbete palavra="como">conjunção</verbete>
+    <verbete palavra="comer">verbo pronominal</verbete>
+    <verbete palavra="comer">verbo transitivo e pronominal</verbete>
+    <verbete palavra="comer">verbo intransitivo</verbete>
+    <verbete palavra="comer">substantivo masculino</verbete>
+    <verbete palavra="comer">verbo transitivo</verbete>
+  </token>
+  <token string="em" total-classes="1">
+    <verbete palavra="em">preposição</verbete>
+  </token>
+  <token string="militares" total-classes="6">
+    <verbete palavra="militar">adjetivo de dois gêneros</verbete>
+    <verbete palavra="militar">adjetivo de dois gêneros e substantivo de dois gêneros</verbete>
+    <verbete palavra="militar">substantivo masculino</verbete>
+    <verbete palavra="militar">verbo transitivo e intransitivo</verbete>
+    <verbete palavra="militar">verbo intransitivo</verbete>
+    <verbete palavra="militar">verbo transitivo</verbete>
+  </token>
+  <token string="para" total-classes="4">
+    <verbete palavra="para">preposição</verbete>
+    <verbete palavra="parar">verbo auxiliar</verbete>
+    <verbete palavra="parar">verbo intransitivo</verbete>
+    <verbete palavra="parar">verbo transitivo</verbete>
+  </token>
+  <token string="resolver" total-classes="2">
+    <verbete palavra="resolver">verbo intransitivo e pronominal</verbete>
+    <verbete palavra="resolver">verbo transitivo</verbete>
+  </token>
+  <token string="conflitos" total-classes="2">
+    <verbete palavra="conflito">substantivo masculino</verbete>
+    <verbete palavra="conflitar">verbo transitivo e intransitivo</verbete>
+  </token>
+  <token string="na" total-classes="1">
+    <verbete palavra="Na">símbolo</verbete>
+  </token>
+  <token string="Libéria"/>
+  <token string="Serra" total-classes="4">
+    <verbete palavra="serra">substantivo masculino</verbete>
+    <verbete palavra="serra">substantivo feminino</verbete>
+    <verbete palavra="serrar">verbo intransitivo</verbete>
+    <verbete palavra="serrar">verbo transitivo</verbete>
+  </token>
+  <token string="Leoa" total-classes="1">
+    <verbete palavra="leoa">substantivo feminino</verbete>
+  </token>
+  <token string="e" total-classes="3">
+    <verbete palavra="e">conjunção coordenativa</verbete>
+    <verbete palavra="e">adjetivo de dois gêneros</verbete>
+    <verbete palavra="e">substantivo masculino</verbete>
+  </token>
+  <token string="Guiné-Bissau"/>
+  <token string="e" total-classes="3">
+    <verbete palavra="e">conjunção coordenativa</verbete>
+    <verbete palavra="e">adjetivo de dois gêneros</verbete>
+    <verbete palavra="e">substantivo masculino</verbete>
+  </token>
+  <token string="contribuiu" total-classes="1">
+    <verbete palavra="contribuir">verbo intransitivo</verbete>
+  </token>
+  <token string="com" total-classes="1">
+    <verbete palavra="com">preposição</verbete>
+  </token>
+  <token string="contingentes" total-classes="1">
+    <verbete palavra="contingentar">verbo transitivo</verbete>
+  </token>
+  <token string="de" total-classes="1">
+    <verbete palavra="de">preposição</verbete>
+  </token>
+  <token string="tropas" total-classes="2">
+    <verbete palavra="tropa">substantivo masculino</verbete>
+    <verbete palavra="tropa">substantivo feminino</verbete>
+  </token>
+  <token string="de" total-classes="1">
+    <verbete palavra="de">preposição</verbete>
+  </token>
+  <token string="manutenção" total-classes="1">
+    <verbete palavra="manutenção">substantivo feminino</verbete>
+  </token>
+  <token string="da" total-classes="1">
+    <verbete palavra="do">contração</verbete>
+  </token>
+  <token string="paz" total-classes="1">
+    <verbete palavra="paz">substantivo feminino</verbete>
+  </token>
+  <token string="em" total-classes="1">
+    <verbete palavra="em">preposição</verbete>
+  </token>
+  <token string="todos" total-classes="3">
+    <verbete palavra="todo">pronome indefinido</verbete>
+    <verbete palavra="todo">adjetivo</verbete>
+    <verbete palavra="todo">substantivo masculino</verbete>
+  </token>
+  <token string="os" total-classes="1">
+    <verbete palavra="Os">símbolo</verbete>
+  </token>
+  <token string="três" total-classes="3">
+    <verbete palavra="três">adjetivo de dois gêneros e numeral cardinal</verbete>
+    <verbete palavra="três">substantivo masculino plural</verbete>
+    <verbete palavra="três">substantivo masculino de dois números</verbete>
+  </token>
+  <token string="países" total-classes="1">
+    <verbete palavra="país">substantivo masculino</verbete>
+  </token>
+  <token string="como" total-classes="8">
+    <verbete palavra="como">advérbio</verbete>
+    <verbete palavra="como">substantivo masculino</verbete>
+    <verbete palavra="como">conjunção</verbete>
+    <verbete palavra="comer">verbo pronominal</verbete>
+    <verbete palavra="comer">verbo transitivo e pronominal</verbete>
+    <verbete palavra="comer">verbo intransitivo</verbete>
+    <verbete palavra="comer">substantivo masculino</verbete>
+    <verbete palavra="comer">verbo transitivo</verbete>
+  </token>
+  <token string="parte" total-classes="5">
+    <verbete palavra="partir">verbo pronominal</verbete>
+    <verbete palavra="partir">verbo transitivo, intransitivo e pronominal</verbete>
+    <verbete palavra="partir">verbo intransitivo</verbete>
+    <verbete palavra="partir">verbo transitivo</verbete>
+    <verbete palavra="parte">substantivo feminino</verbete>
+  </token>
+  <token string="da" total-classes="1">
+    <verbete palavra="do">contração</verbete>
+  </token>
+  <token string="ECOMOG"/>
+  <token string="o" total-classes="6">
+    <verbete palavra="o">pronome pessoal</verbete>
+    <verbete palavra="o">pronome demonstrativo</verbete>
+    <verbete palavra="o">artigo definido masculino singular</verbete>
+    <verbete palavra="o">adjetivo de dois gêneros</verbete>
+    <verbete palavra="o">símbolo</verbete>
+    <verbete palavra="o">substantivo masculino</verbete>
+  </token>
+  <token string="Grupo" total-classes="1">
+    <verbete palavra="grupo">substantivo masculino</verbete>
+  </token>
+  <token string="de" total-classes="1">
+    <verbete palavra="de">preposição</verbete>
+  </token>
+  <token string="Observadores" total-classes="1">
+    <verbete palavra="observador">adjetivo e substantivo masculino</verbete>
+  </token>
+  <token string="Militares" total-classes="6">
+    <verbete palavra="militar">adjetivo de dois gêneros</verbete>
+    <verbete palavra="militar">adjetivo de dois gêneros e substantivo de dois gêneros</verbete>
+    <verbete palavra="militar">substantivo masculino</verbete>
+    <verbete palavra="militar">verbo transitivo e intransitivo</verbete>
+    <verbete palavra="militar">verbo intransitivo</verbete>
+    <verbete palavra="militar">verbo transitivo</verbete>
+  </token>
+  <token string="CEDEAO"/>
+  <token string="A" total-classes="7">
+    <verbete palavra="a">pronome demonstrativo</verbete>
+    <verbete palavra="a">preposição</verbete>
+    <verbete palavra="a">pronome pessoal feminino</verbete>
+    <verbete palavra="a">artigo definido</verbete>
+    <verbete palavra="a">adjetivo de dois gêneros</verbete>
+    <verbete palavra="a">abreviatura</verbete>
+    <verbete palavra="a">substantivo masculino</verbete>
+  </token>
+  <token string="Guiné" total-classes="1">
+    <verbete palavra="guiné">substantivo feminino</verbete>
+  </token>
+  <token string="ofereceu" total-classes="2">
+    <verbete palavra="oferecer">verbo pronominal</verbete>
+    <verbete palavra="oferecer">verbo transitivo</verbete>
+  </token>
+  <token string="asilo"/>
+  <token string="a" total-classes="7">
+    <verbete palavra="a">pronome demonstrativo</verbete>
+    <verbete palavra="a">preposição</verbete>
+    <verbete palavra="a">pronome pessoal feminino</verbete>
+    <verbete palavra="a">artigo definido</verbete>
+    <verbete palavra="a">adjetivo de dois gêneros</verbete>
+    <verbete palavra="a">abreviatura</verbete>
+    <verbete palavra="a">substantivo masculino</verbete>
+  </token>
+  <token string="mais" total-classes="5">
+    <verbete palavra="mais">determinante e pronome indefinido</verbete>
+    <verbete palavra="mais">advérbio</verbete>
+    <verbete palavra="mais">substantivo masculino plural</verbete>
+    <verbete palavra="mais">substantivo masculino</verbete>
+    <verbete palavra="mais">conjunção coordenativa</verbete>
+  </token>
+  <token string="de" total-classes="1">
+    <verbete palavra="de">preposição</verbete>
+  </token>
+  <token string="700,000"/>
+  <token string="refugiados"/>
+  <token string="da" total-classes="1">
+    <verbete palavra="do">contração</verbete>
+  </token>
+  <token string="Libéria"/>
+  <token string="Serra" total-classes="4">
+    <verbete palavra="serra">substantivo masculino</verbete>
+    <verbete palavra="serra">substantivo feminino</verbete>
+    <verbete palavra="serrar">verbo intransitivo</verbete>
+    <verbete palavra="serrar">verbo transitivo</verbete>
+  </token>
+  <token string="Leoa" total-classes="1">
+    <verbete palavra="leoa">substantivo feminino</verbete>
+  </token>
+  <token string="e" total-classes="3">
+    <verbete palavra="e">conjunção coordenativa</verbete>
+    <verbete palavra="e">adjetivo de dois gêneros</verbete>
+    <verbete palavra="e">substantivo masculino</verbete>
+  </token>
+  <token string="Guiné-Bissau"/>
+  <token string="desde" total-classes="1">
+    <verbete palavra="desde">preposição</verbete>
+  </token>
+  <token string="1990"/>
+  <token string="apesar" total-classes="1">
+    <verbete palavra="apesar">advérbio</verbete>
+  </token>
+  <token string="dos" total-classes="1">
+    <verbete palavra="do">contração</verbete>
+  </token>
+  <token string="custos" total-classes="3">
+    <verbete palavra="custar">verbo intransitivo</verbete>
+    <verbete palavra="custar">verbo transitivo</verbete>
+    <verbete palavra="custo">substantivo masculino</verbete>
+  </token>
+  <token string="econômicos" total-classes="1">
+    <verbete palavra="econômico">adjetivo</verbete>
+  </token>
+  <token string="e" total-classes="3">
+    <verbete palavra="e">conjunção coordenativa</verbete>
+    <verbete palavra="e">adjetivo de dois gêneros</verbete>
+    <verbete palavra="e">substantivo masculino</verbete>
+  </token>
+  <token string="ambientais"/>
+  <token string="envolvidos"/>
+  <token string="A" total-classes="7">
+    <verbete palavra="a">pronome demonstrativo</verbete>
+    <verbete palavra="a">preposição</verbete>
+    <verbete palavra="a">pronome pessoal feminino</verbete>
+    <verbete palavra="a">artigo definido</verbete>
+    <verbete palavra="a">adjetivo de dois gêneros</verbete>
+    <verbete palavra="a">abreviatura</verbete>
+    <verbete palavra="a">substantivo masculino</verbete>
+  </token>
+  <token string="Guiné" total-classes="1">
+    <verbete palavra="guiné">substantivo feminino</verbete>
+  </token>
+  <token string="também" total-classes="2">
+    <verbete palavra="também">advérbio</verbete>
+    <verbete palavra="também">conjunção</verbete>
+  </token>
+  <token string="é" total-classes="6">
+    <verbete palavra="é">substantivo masculino</verbete>
+    <verbete palavra="ser">verbo auxiliar</verbete>
+    <verbete palavra="ser">verbo copulativo</verbete>
+    <verbete palavra="ser">verbo intransitivo</verbete>
+    <verbete palavra="ser">substantivo masculino</verbete>
+    <verbete palavra="ser">verbo transitivo</verbete>
+  </token>
+  <token string="membro" total-classes="1">
+    <verbete palavra="membro">substantivo masculino</verbete>
+  </token>
+  <token string="do" total-classes="1">
+    <verbete palavra="do">contração</verbete>
+  </token>
+  <token string="Corte" total-classes="7">
+    <verbete palavra="corte">substantivo feminino</verbete>
+    <verbete palavra="corte">substantivo masculino</verbete>
+    <verbete palavra="corte">substantivo masculino</verbete>
+    <verbete palavra="corte">substantivo feminino</verbete>
+    <verbete palavra="cortar">verbo pronominal</verbete>
+    <verbete palavra="cortar">verbo intransitivo</verbete>
+    <verbete palavra="cortar">verbo transitivo</verbete>
+  </token>
+  <token string="Penal" total-classes="2">
+    <verbete palavra="penal">adjetivo de dois gêneros</verbete>
+    <verbete palavra="penal">substantivo masculino</verbete>
+  </token>
+  <token string="Internacional" total-classes="2">
+    <verbete palavra="internacional">adjetivo de dois gêneros</verbete>
+    <verbete palavra="internacional">substantivo feminino</verbete>
+  </token>
+  <token string="com" total-classes="1">
+    <verbete palavra="com">preposição</verbete>
+  </token>
+  <token string="um" total-classes="5">
+    <verbete palavra="um">pronome indefinido</verbete>
+    <verbete palavra="um">adjetivo</verbete>
+    <verbete palavra="um">adjetivo e substantivo masculino</verbete>
+    <verbete palavra="um">adjetivo, substantivo masculino, pronome indefinido e artigo</verbete>
+    <verbete palavra="um">numeral cardinal</verbete>
+  </token>
+  <token string="Acordo" total-classes="4">
+    <verbete palavra="acordar">verbo pronominal</verbete>
+    <verbete palavra="acordar">verbo intransitivo</verbete>
+    <verbete palavra="acordar">verbo transitivo</verbete>
+    <verbete palavra="acordo">substantivo masculino</verbete>
+  </token>
+  <token string="de" total-classes="1">
+    <verbete palavra="de">preposição</verbete>
+  </token>
+  <token string="Imunidade" total-classes="1">
+    <verbete palavra="imunidade">substantivo feminino</verbete>
+  </token>
+  <token string="Bilateral" total-classes="1">
+    <verbete palavra="bilateral">adjetivo de dois gêneros</verbete>
+  </token>
+  <token string="da" total-classes="1">
+    <verbete palavra="do">contração</verbete>
+  </token>
+  <token string="proteção" total-classes="1">
+    <verbete palavra="proteção">substantivo feminino</verbete>
+  </token>
+  <token string="para" total-classes="4">
+    <verbete palavra="para">preposição</verbete>
+    <verbete palavra="parar">verbo auxiliar</verbete>
+    <verbete palavra="parar">verbo intransitivo</verbete>
+    <verbete palavra="parar">verbo transitivo</verbete>
+  </token>
+  <token string="os" total-classes="1">
+    <verbete palavra="Os">símbolo</verbete>
+  </token>
+  <token string="militares" total-classes="6">
+    <verbete palavra="militar">adjetivo de dois gêneros</verbete>
+    <verbete palavra="militar">adjetivo de dois gêneros e substantivo de dois gêneros</verbete>
+    <verbete palavra="militar">substantivo masculino</verbete>
+    <verbete palavra="militar">verbo transitivo e intransitivo</verbete>
+    <verbete palavra="militar">verbo intransitivo</verbete>
+    <verbete palavra="militar">verbo transitivo</verbete>
+  </token>
+  <token string="dos" total-classes="1">
+    <verbete palavra="do">contração</verbete>
+  </token>
+  <token string="Estados" total-classes="5">
+    <verbete palavra="estar">verbo auxiliar</verbete>
+    <verbete palavra="estar">verbo copulativo</verbete>
+    <verbete palavra="estar">substantivo masculino</verbete>
+    <verbete palavra="estar">verbo transitivo</verbete>
+    <verbete palavra="estado">substantivo masculino</verbete>
+  </token>
+  <token string="Unidos" total-classes="4">
+    <verbete palavra="unido">adjetivo</verbete>
+    <verbete palavra="unir">verbo pronominal</verbete>
+    <verbete palavra="unir">verbo intransitivo</verbete>
+    <verbete palavra="unir">verbo transitivo</verbete>
+  </token>
+  <token string="como" total-classes="8">
+    <verbete palavra="como">advérbio</verbete>
+    <verbete palavra="como">substantivo masculino</verbete>
+    <verbete palavra="como">conjunção</verbete>
+    <verbete palavra="comer">verbo pronominal</verbete>
+    <verbete palavra="comer">verbo transitivo e pronominal</verbete>
+    <verbete palavra="comer">verbo intransitivo</verbete>
+    <verbete palavra="comer">substantivo masculino</verbete>
+    <verbete palavra="comer">verbo transitivo</verbete>
+  </token>
+  <token string="abrangidos" total-classes="1">
+    <verbete palavra="abranger">verbo transitivo</verbete>
+  </token>
+  <token string="no" total-classes="2">
+    <verbete palavra="no">pronome pessoal</verbete>
+    <verbete palavra="no">contração</verbete>
+  </token>
+  <token string="Artigo"/>
+  <token string="98"/>
+</lista>

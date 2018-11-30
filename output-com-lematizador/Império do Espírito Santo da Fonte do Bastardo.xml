@@ -1,0 +1,1094 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<lista tokens-not-found="17" total-tokens="244">
+  <token string="O" total-classes="6">
+    <verbete palavra="o">pronome pessoal</verbete>
+    <verbete palavra="o">pronome demonstrativo</verbete>
+    <verbete palavra="o">artigo definido masculino singular</verbete>
+    <verbete palavra="o">adjetivo de dois gêneros</verbete>
+    <verbete palavra="o">símbolo</verbete>
+    <verbete palavra="o">substantivo masculino</verbete>
+  </token>
+  <token string="Império" total-classes="1">
+    <verbete palavra="império">substantivo masculino</verbete>
+  </token>
+  <token string="do" total-classes="1">
+    <verbete palavra="do">contração</verbete>
+  </token>
+  <token string="Espírito" total-classes="1">
+    <verbete palavra="espírito">substantivo masculino</verbete>
+  </token>
+  <token string="Santo" total-classes="3">
+    <verbete palavra="santo">adjetivo</verbete>
+    <verbete palavra="santo">adjetivo e substantivo masculino</verbete>
+    <verbete palavra="santo">substantivo masculino</verbete>
+  </token>
+  <token string="da" total-classes="1">
+    <verbete palavra="do">contração</verbete>
+  </token>
+  <token string="Fonte" total-classes="1">
+    <verbete palavra="fonte">substantivo feminino</verbete>
+  </token>
+  <token string="do" total-classes="1">
+    <verbete palavra="do">contração</verbete>
+  </token>
+  <token string="Bastardo" total-classes="3">
+    <verbete palavra="bastardo">adjetivo</verbete>
+    <verbete palavra="bastardo">adjetivo e substantivo masculino</verbete>
+    <verbete palavra="bastardo">substantivo masculino</verbete>
+  </token>
+  <token string="é" total-classes="6">
+    <verbete palavra="é">substantivo masculino</verbete>
+    <verbete palavra="ser">verbo auxiliar</verbete>
+    <verbete palavra="ser">verbo copulativo</verbete>
+    <verbete palavra="ser">verbo intransitivo</verbete>
+    <verbete palavra="ser">substantivo masculino</verbete>
+    <verbete palavra="ser">verbo transitivo</verbete>
+  </token>
+  <token string="um" total-classes="5">
+    <verbete palavra="um">pronome indefinido</verbete>
+    <verbete palavra="um">adjetivo</verbete>
+    <verbete palavra="um">adjetivo e substantivo masculino</verbete>
+    <verbete palavra="um">adjetivo, substantivo masculino, pronome indefinido e artigo</verbete>
+    <verbete palavra="um">numeral cardinal</verbete>
+  </token>
+  <token string="Império" total-classes="1">
+    <verbete palavra="império">substantivo masculino</verbete>
+  </token>
+  <token string="do" total-classes="1">
+    <verbete palavra="do">contração</verbete>
+  </token>
+  <token string="Divino" total-classes="2">
+    <verbete palavra="divino">adjetivo</verbete>
+    <verbete palavra="divino">substantivo masculino</verbete>
+  </token>
+  <token string="Espírito" total-classes="1">
+    <verbete palavra="espírito">substantivo masculino</verbete>
+  </token>
+  <token string="Santo" total-classes="3">
+    <verbete palavra="santo">adjetivo</verbete>
+    <verbete palavra="santo">adjetivo e substantivo masculino</verbete>
+    <verbete palavra="santo">substantivo masculino</verbete>
+  </token>
+  <token string="português" total-classes="2">
+    <verbete palavra="português">adjetivo</verbete>
+    <verbete palavra="português">substantivo masculino</verbete>
+  </token>
+  <token string="localizado" total-classes="1">
+    <verbete palavra="localizar">verbo transitivo</verbete>
+  </token>
+  <token string="na" total-classes="1">
+    <verbete palavra="Na">símbolo</verbete>
+  </token>
+  <token string="freguesia" total-classes="1">
+    <verbete palavra="freguesia">substantivo feminino</verbete>
+  </token>
+  <token string="da" total-classes="1">
+    <verbete palavra="do">contração</verbete>
+  </token>
+  <token string="Fonte" total-classes="1">
+    <verbete palavra="fonte">substantivo feminino</verbete>
+  </token>
+  <token string="do" total-classes="1">
+    <verbete palavra="do">contração</verbete>
+  </token>
+  <token string="Bastardo" total-classes="3">
+    <verbete palavra="bastardo">adjetivo</verbete>
+    <verbete palavra="bastardo">adjetivo e substantivo masculino</verbete>
+    <verbete palavra="bastardo">substantivo masculino</verbete>
+  </token>
+  <token string="concelho" total-classes="1">
+    <verbete palavra="concelho">substantivo masculino</verbete>
+  </token>
+  <token string="da" total-classes="1">
+    <verbete palavra="do">contração</verbete>
+  </token>
+  <token string="Praia" total-classes="1">
+    <verbete palavra="praia">substantivo feminino</verbete>
+  </token>
+  <token string="da" total-classes="1">
+    <verbete palavra="do">contração</verbete>
+  </token>
+  <token string="Vitória" total-classes="2">
+    <verbete palavra="vitória">substantivo feminino</verbete>
+    <verbete palavra="vitória">substantivo feminino</verbete>
+  </token>
+  <token string="e" total-classes="3">
+    <verbete palavra="e">conjunção coordenativa</verbete>
+    <verbete palavra="e">adjetivo de dois gêneros</verbete>
+    <verbete palavra="e">substantivo masculino</verbete>
+  </token>
+  <token string="que" total-classes="14">
+    <verbete palavra="que">determinante interrogativo</verbete>
+    <verbete palavra="que">preposição</verbete>
+    <verbete palavra="que">advérbio</verbete>
+    <verbete palavra="que">pronome interrogativo</verbete>
+    <verbete palavra="que">pronome relativo</verbete>
+    <verbete palavra="que">pronome indefinido</verbete>
+    <verbete palavra="que">conjunção final</verbete>
+    <verbete palavra="que">conjunção adversativa</verbete>
+    <verbete palavra="que">conjunção copulativa</verbete>
+    <verbete palavra="que">conjunção consecutiva</verbete>
+    <verbete palavra="que">conjunção integrante</verbete>
+    <verbete palavra="que">conjunção causal</verbete>
+    <verbete palavra="que">conjunção</verbete>
+    <verbete palavra="que">conjunção comparativa</verbete>
+  </token>
+  <token string="faz" total-classes="3">
+    <verbete palavra="fazer">verbo pronominal</verbete>
+    <verbete palavra="fazer">substantivo masculino</verbete>
+    <verbete palavra="fazer">verbo transitivo</verbete>
+  </token>
+  <token string="parte" total-classes="5">
+    <verbete palavra="partir">verbo pronominal</verbete>
+    <verbete palavra="partir">verbo transitivo, intransitivo e pronominal</verbete>
+    <verbete palavra="partir">verbo intransitivo</verbete>
+    <verbete palavra="partir">verbo transitivo</verbete>
+    <verbete palavra="parte">substantivo feminino</verbete>
+  </token>
+  <token string="do" total-classes="1">
+    <verbete palavra="do">contração</verbete>
+  </token>
+  <token string="Inventário" total-classes="1">
+    <verbete palavra="inventário">substantivo masculino</verbete>
+  </token>
+  <token string="do" total-classes="1">
+    <verbete palavra="do">contração</verbete>
+  </token>
+  <token string="Património"/>
+  <token string="Histórico" total-classes="2">
+    <verbete palavra="histórico">adjetivo</verbete>
+    <verbete palavra="histórico">substantivo masculino</verbete>
+  </token>
+  <token string="e" total-classes="3">
+    <verbete palavra="e">conjunção coordenativa</verbete>
+    <verbete palavra="e">adjetivo de dois gêneros</verbete>
+    <verbete palavra="e">substantivo masculino</verbete>
+  </token>
+  <token string="Religioso"/>
+  <token string="da" total-classes="1">
+    <verbete palavra="do">contração</verbete>
+  </token>
+  <token string="Praia" total-classes="1">
+    <verbete palavra="praia">substantivo feminino</verbete>
+  </token>
+  <token string="da" total-classes="1">
+    <verbete palavra="do">contração</verbete>
+  </token>
+  <token string="Vitória" total-classes="2">
+    <verbete palavra="vitória">substantivo feminino</verbete>
+    <verbete palavra="vitória">substantivo feminino</verbete>
+  </token>
+  <token string="e" total-classes="3">
+    <verbete palavra="e">conjunção coordenativa</verbete>
+    <verbete palavra="e">adjetivo de dois gêneros</verbete>
+    <verbete palavra="e">substantivo masculino</verbete>
+  </token>
+  <token string="remonta"/>
+  <token string="a" total-classes="7">
+    <verbete palavra="a">pronome demonstrativo</verbete>
+    <verbete palavra="a">preposição</verbete>
+    <verbete palavra="a">pronome pessoal feminino</verbete>
+    <verbete palavra="a">artigo definido</verbete>
+    <verbete palavra="a">adjetivo de dois gêneros</verbete>
+    <verbete palavra="a">abreviatura</verbete>
+    <verbete palavra="a">substantivo masculino</verbete>
+  </token>
+  <token string="1913"/>
+  <token string="Trata-se"/>
+  <token string="de" total-classes="1">
+    <verbete palavra="de">preposição</verbete>
+  </token>
+  <token string="uma" total-classes="1">
+    <verbete palavra="uma">substantivo feminino</verbete>
+  </token>
+  <token string="construção" total-classes="1">
+    <verbete palavra="construção">substantivo feminino</verbete>
+  </token>
+  <token string="que" total-classes="14">
+    <verbete palavra="que">determinante interrogativo</verbete>
+    <verbete palavra="que">preposição</verbete>
+    <verbete palavra="que">advérbio</verbete>
+    <verbete palavra="que">pronome interrogativo</verbete>
+    <verbete palavra="que">pronome relativo</verbete>
+    <verbete palavra="que">pronome indefinido</verbete>
+    <verbete palavra="que">conjunção final</verbete>
+    <verbete palavra="que">conjunção adversativa</verbete>
+    <verbete palavra="que">conjunção copulativa</verbete>
+    <verbete palavra="que">conjunção consecutiva</verbete>
+    <verbete palavra="que">conjunção integrante</verbete>
+    <verbete palavra="que">conjunção causal</verbete>
+    <verbete palavra="que">conjunção</verbete>
+    <verbete palavra="que">conjunção comparativa</verbete>
+  </token>
+  <token string="apresenta" total-classes="2">
+    <verbete palavra="apresentar">verbo pronominal</verbete>
+    <verbete palavra="apresentar">verbo transitivo</verbete>
+  </token>
+  <token string="uma" total-classes="1">
+    <verbete palavra="uma">substantivo feminino</verbete>
+  </token>
+  <token string="planta" total-classes="5">
+    <verbete palavra="planta">substantivo feminino</verbete>
+    <verbete palavra="plantar">verbo pronominal</verbete>
+    <verbete palavra="plantar">verbo transitivo e pronominal</verbete>
+    <verbete palavra="plantar">verbo transitivo</verbete>
+    <verbete palavra="plantar">adjetivo de dois gêneros</verbete>
+  </token>
+  <token string="de" total-classes="1">
+    <verbete palavra="de">preposição</verbete>
+  </token>
+  <token string="formato" total-classes="2">
+    <verbete palavra="formatar">verbo transitivo</verbete>
+    <verbete palavra="formato">substantivo masculino</verbete>
+  </token>
+  <token string="quadrangular" total-classes="1">
+    <verbete palavra="quadrangular">adjetivo de dois gêneros</verbete>
+  </token>
+  <token string="com" total-classes="1">
+    <verbete palavra="com">preposição</verbete>
+  </token>
+  <token string="um" total-classes="5">
+    <verbete palavra="um">pronome indefinido</verbete>
+    <verbete palavra="um">adjetivo</verbete>
+    <verbete palavra="um">adjetivo e substantivo masculino</verbete>
+    <verbete palavra="um">adjetivo, substantivo masculino, pronome indefinido e artigo</verbete>
+    <verbete palavra="um">numeral cardinal</verbete>
+  </token>
+  <token string="só" total-classes="3">
+    <verbete palavra="só">adjetivo de dois gêneros</verbete>
+    <verbete palavra="só">advérbio</verbete>
+    <verbete palavra="só">substantivo masculino</verbete>
+  </token>
+  <token string="piso" total-classes="3">
+    <verbete palavra="pisar">verbo intransitivo</verbete>
+    <verbete palavra="pisar">verbo transitivo</verbete>
+    <verbete palavra="piso">substantivo masculino</verbete>
+  </token>
+  <token string="Possui" total-classes="2">
+    <verbete palavra="possuir">verbo pronominal</verbete>
+    <verbete palavra="possuir">verbo transitivo</verbete>
+  </token>
+  <token string="três" total-classes="3">
+    <verbete palavra="três">adjetivo de dois gêneros e numeral cardinal</verbete>
+    <verbete palavra="três">substantivo masculino plural</verbete>
+    <verbete palavra="três">substantivo masculino de dois números</verbete>
+  </token>
+  <token string="vãos" total-classes="10">
+    <verbete palavra="vão">adjetivo</verbete>
+    <verbete palavra="vão">substantivo masculino</verbete>
+    <verbete palavra="ir">verbo pronominal</verbete>
+    <verbete palavra="ir">verbo transitivo, intransitivo e pronominal</verbete>
+    <verbete palavra="ir">verbo intransitivo e pronominal</verbete>
+    <verbete palavra="ir">verbo auxiliar</verbete>
+    <verbete palavra="ir">verbo intransitivo</verbete>
+    <verbete palavra="ir">verbo copulativo</verbete>
+    <verbete palavra="ir">verbo transitivo</verbete>
+    <verbete palavra="Ir">símbolo</verbete>
+  </token>
+  <token string="abertos" total-classes="4">
+    <verbete palavra="abrir">verbo pronominal</verbete>
+    <verbete palavra="abrir">verbo intransitivo</verbete>
+    <verbete palavra="abrir">verbo transitivo</verbete>
+    <verbete palavra="aberto">adjetivo</verbete>
+  </token>
+  <token string="na" total-classes="1">
+    <verbete palavra="Na">símbolo</verbete>
+  </token>
+  <token string="fachada" total-classes="1">
+    <verbete palavra="fachada">substantivo feminino</verbete>
+  </token>
+  <token string="principal" total-classes="2">
+    <verbete palavra="principal">adjetivo de dois gêneros</verbete>
+    <verbete palavra="principal">substantivo masculino</verbete>
+  </token>
+  <token string="que" total-classes="14">
+    <verbete palavra="que">determinante interrogativo</verbete>
+    <verbete palavra="que">preposição</verbete>
+    <verbete palavra="que">advérbio</verbete>
+    <verbete palavra="que">pronome interrogativo</verbete>
+    <verbete palavra="que">pronome relativo</verbete>
+    <verbete palavra="que">pronome indefinido</verbete>
+    <verbete palavra="que">conjunção final</verbete>
+    <verbete palavra="que">conjunção adversativa</verbete>
+    <verbete palavra="que">conjunção copulativa</verbete>
+    <verbete palavra="que">conjunção consecutiva</verbete>
+    <verbete palavra="que">conjunção integrante</verbete>
+    <verbete palavra="que">conjunção causal</verbete>
+    <verbete palavra="que">conjunção</verbete>
+    <verbete palavra="que">conjunção comparativa</verbete>
+  </token>
+  <token string="são" total-classes="8">
+    <verbete palavra="ser">verbo auxiliar</verbete>
+    <verbete palavra="ser">verbo copulativo</verbete>
+    <verbete palavra="ser">verbo intransitivo</verbete>
+    <verbete palavra="ser">substantivo masculino</verbete>
+    <verbete palavra="ser">verbo transitivo</verbete>
+    <verbete palavra="são">adjetivo</verbete>
+    <verbete palavra="são">substantivo masculino</verbete>
+    <verbete palavra="são">adjetivo masculino</verbete>
+  </token>
+  <token string="as" total-classes="7">
+    <verbete palavra="a">pronome demonstrativo</verbete>
+    <verbete palavra="a">preposição</verbete>
+    <verbete palavra="a">pronome pessoal feminino</verbete>
+    <verbete palavra="a">artigo definido</verbete>
+    <verbete palavra="a">adjetivo de dois gêneros</verbete>
+    <verbete palavra="a">abreviatura</verbete>
+    <verbete palavra="a">substantivo masculino</verbete>
+  </token>
+  <token string="aberturas" total-classes="1">
+    <verbete palavra="abertura">substantivo feminino</verbete>
+  </token>
+  <token string="de" total-classes="1">
+    <verbete palavra="de">preposição</verbete>
+  </token>
+  <token string="uma" total-classes="1">
+    <verbete palavra="uma">substantivo feminino</verbete>
+  </token>
+  <token string="porta" total-classes="5">
+    <verbete palavra="porta">adjetivo feminino e substantivo feminino</verbete>
+    <verbete palavra="porta">substantivo feminino</verbete>
+    <verbete palavra="portar">verbo pronominal</verbete>
+    <verbete palavra="portar">verbo transitivo</verbete>
+    <verbete palavra="portar">verbo intransitivo</verbete>
+  </token>
+  <token string="ladeada" total-classes="2">
+    <verbete palavra="ladear">verbo intransitivo</verbete>
+    <verbete palavra="ladear">verbo transitivo</verbete>
+  </token>
+  <token string="por" total-classes="1">
+    <verbete palavra="por">preposição</verbete>
+  </token>
+  <token string="duas" total-classes="1">
+    <verbete palavra="duas">adjetivo feminino plural e numeral cardinal</verbete>
+  </token>
+  <token string="janelas" total-classes="1">
+    <verbete palavra="janelar">verbo intransitivo</verbete>
+  </token>
+  <token string="Apresenta" total-classes="2">
+    <verbete palavra="apresentar">verbo pronominal</verbete>
+    <verbete palavra="apresentar">verbo transitivo</verbete>
+  </token>
+  <token string="ainda" total-classes="1">
+    <verbete palavra="ainda">advérbio</verbete>
+  </token>
+  <token string="duas" total-classes="1">
+    <verbete palavra="duas">adjetivo feminino plural e numeral cardinal</verbete>
+  </token>
+  <token string="janelas" total-classes="1">
+    <verbete palavra="janelar">verbo intransitivo</verbete>
+  </token>
+  <token string="em" total-classes="1">
+    <verbete palavra="em">preposição</verbete>
+  </token>
+  <token string="cada" total-classes="1">
+    <verbete palavra="cada">pronome indefinido</verbete>
+  </token>
+  <token string="uma" total-classes="1">
+    <verbete palavra="uma">substantivo feminino</verbete>
+  </token>
+  <token string="das" total-classes="1">
+    <verbete palavra="do">contração</verbete>
+  </token>
+  <token string="paredes" total-classes="1">
+    <verbete palavra="parede">substantivo feminino</verbete>
+  </token>
+  <token string="laterais" total-classes="3">
+    <verbete palavra="lateral">adjetivo de dois gêneros</verbete>
+    <verbete palavra="lateral">substantivo de dois gêneros</verbete>
+    <verbete palavra="lateral">substantivo feminino</verbete>
+  </token>
+  <token string="Os" total-classes="1">
+    <verbete palavra="Os">símbolo</verbete>
+  </token>
+  <token string="vãos" total-classes="10">
+    <verbete palavra="vão">adjetivo</verbete>
+    <verbete palavra="vão">substantivo masculino</verbete>
+    <verbete palavra="ir">verbo pronominal</verbete>
+    <verbete palavra="ir">verbo transitivo, intransitivo e pronominal</verbete>
+    <verbete palavra="ir">verbo intransitivo e pronominal</verbete>
+    <verbete palavra="ir">verbo auxiliar</verbete>
+    <verbete palavra="ir">verbo intransitivo</verbete>
+    <verbete palavra="ir">verbo copulativo</verbete>
+    <verbete palavra="ir">verbo transitivo</verbete>
+    <verbete palavra="Ir">símbolo</verbete>
+  </token>
+  <token string="da" total-classes="1">
+    <verbete palavra="do">contração</verbete>
+  </token>
+  <token string="fachada" total-classes="1">
+    <verbete palavra="fachada">substantivo feminino</verbete>
+  </token>
+  <token string="principal" total-classes="2">
+    <verbete palavra="principal">adjetivo de dois gêneros</verbete>
+    <verbete palavra="principal">substantivo masculino</verbete>
+  </token>
+  <token string="apresentam" total-classes="2">
+    <verbete palavra="apresentar">verbo pronominal</verbete>
+    <verbete palavra="apresentar">verbo transitivo</verbete>
+  </token>
+  <token string="na" total-classes="1">
+    <verbete palavra="Na">símbolo</verbete>
+  </token>
+  <token string="zona" total-classes="4">
+    <verbete palavra="zona">substantivo feminino</verbete>
+    <verbete palavra="zonar">verbo transitivo e intransitivo</verbete>
+    <verbete palavra="zonar">verbo intransitivo</verbete>
+    <verbete palavra="zonar">verbo transitivo</verbete>
+  </token>
+  <token string="da" total-classes="1">
+    <verbete palavra="do">contração</verbete>
+  </token>
+  <token string="bandeira" total-classes="1">
+    <verbete palavra="bandeira">substantivo feminino</verbete>
+  </token>
+  <token string="um" total-classes="5">
+    <verbete palavra="um">pronome indefinido</verbete>
+    <verbete palavra="um">adjetivo</verbete>
+    <verbete palavra="um">adjetivo e substantivo masculino</verbete>
+    <verbete palavra="um">adjetivo, substantivo masculino, pronome indefinido e artigo</verbete>
+    <verbete palavra="um">numeral cardinal</verbete>
+  </token>
+  <token string="arco"/>
+  <token string="trilobado" total-classes="1">
+    <verbete palavra="trilobado">adjetivo</verbete>
+  </token>
+  <token string="e" total-classes="3">
+    <verbete palavra="e">conjunção coordenativa</verbete>
+    <verbete palavra="e">adjetivo de dois gêneros</verbete>
+    <verbete palavra="e">substantivo masculino</verbete>
+  </token>
+  <token string="todas" total-classes="3">
+    <verbete palavra="toda">substantivo masculino</verbete>
+    <verbete palavra="toda">pronome indefinido</verbete>
+    <verbete palavra="toda">adjetivo</verbete>
+  </token>
+  <token string="as" total-classes="7">
+    <verbete palavra="a">pronome demonstrativo</verbete>
+    <verbete palavra="a">preposição</verbete>
+    <verbete palavra="a">pronome pessoal feminino</verbete>
+    <verbete palavra="a">artigo definido</verbete>
+    <verbete palavra="a">adjetivo de dois gêneros</verbete>
+    <verbete palavra="a">abreviatura</verbete>
+    <verbete palavra="a">substantivo masculino</verbete>
+  </token>
+  <token string="janelas" total-classes="1">
+    <verbete palavra="janelar">verbo intransitivo</verbete>
+  </token>
+  <token string="apresentam" total-classes="2">
+    <verbete palavra="apresentar">verbo pronominal</verbete>
+    <verbete palavra="apresentar">verbo transitivo</verbete>
+  </token>
+  <token string="uma" total-classes="1">
+    <verbete palavra="uma">substantivo feminino</verbete>
+  </token>
+  <token string="pequena" total-classes="1">
+    <verbete palavra="pequena">substantivo feminino</verbete>
+  </token>
+  <token string="guarda" total-classes="4">
+    <verbete palavra="guarda">substantivo masculino</verbete>
+    <verbete palavra="guarda">substantivo feminino</verbete>
+    <verbete palavra="guardar">verbo pronominal</verbete>
+    <verbete palavra="guardar">verbo transitivo</verbete>
+  </token>
+  <token string="em" total-classes="1">
+    <verbete palavra="em">preposição</verbete>
+  </token>
+  <token string="ferro" total-classes="6">
+    <verbete palavra="ferro">substantivo masculino</verbete>
+    <verbete palavra="ferrar">verbo transitivo e intransitivo</verbete>
+    <verbete palavra="ferrar">verbo pronominal</verbete>
+    <verbete palavra="ferrar">verbo transitivo e pronominal</verbete>
+    <verbete palavra="ferrar">verbo intransitivo</verbete>
+    <verbete palavra="ferrar">verbo transitivo</verbete>
+  </token>
+  <token string="fundido" total-classes="3">
+    <verbete palavra="fundir">verbo transitivo e intransitivo</verbete>
+    <verbete palavra="fundir">verbo pronominal</verbete>
+    <verbete palavra="fundir">verbo intransitivo</verbete>
+  </token>
+  <token string="A" total-classes="7">
+    <verbete palavra="a">pronome demonstrativo</verbete>
+    <verbete palavra="a">preposição</verbete>
+    <verbete palavra="a">pronome pessoal feminino</verbete>
+    <verbete palavra="a">artigo definido</verbete>
+    <verbete palavra="a">adjetivo de dois gêneros</verbete>
+    <verbete palavra="a">abreviatura</verbete>
+    <verbete palavra="a">substantivo masculino</verbete>
+  </token>
+  <token string="fachada" total-classes="1">
+    <verbete palavra="fachada">substantivo feminino</verbete>
+  </token>
+  <token string="principal" total-classes="2">
+    <verbete palavra="principal">adjetivo de dois gêneros</verbete>
+    <verbete palavra="principal">substantivo masculino</verbete>
+  </token>
+  <token string="encontra-se"/>
+  <token string="encimada" total-classes="3">
+    <verbete palavra="encimar">verbo transitivo</verbete>
+    <verbete palavra="encimado">adjetivo</verbete>
+    <verbete palavra="encimado">substantivo masculino</verbete>
+  </token>
+  <token string="por" total-classes="1">
+    <verbete palavra="por">preposição</verbete>
+  </token>
+  <token string="um" total-classes="5">
+    <verbete palavra="um">pronome indefinido</verbete>
+    <verbete palavra="um">adjetivo</verbete>
+    <verbete palavra="um">adjetivo e substantivo masculino</verbete>
+    <verbete palavra="um">adjetivo, substantivo masculino, pronome indefinido e artigo</verbete>
+    <verbete palavra="um">numeral cardinal</verbete>
+  </token>
+  <token string="frontão" total-classes="1">
+    <verbete palavra="frontão">substantivo masculino</verbete>
+  </token>
+  <token string="de" total-classes="1">
+    <verbete palavra="de">preposição</verbete>
+  </token>
+  <token string="forma" total-classes="4">
+    <verbete palavra="forma">substantivo feminino</verbete>
+    <verbete palavra="formar">verbo pronominal</verbete>
+    <verbete palavra="formar">verbo intransitivo</verbete>
+    <verbete palavra="formar">verbo transitivo</verbete>
+  </token>
+  <token string="contracurvada"/>
+  <token string="e" total-classes="3">
+    <verbete palavra="e">conjunção coordenativa</verbete>
+    <verbete palavra="e">adjetivo de dois gêneros</verbete>
+    <verbete palavra="e">substantivo masculino</verbete>
+  </token>
+  <token string="é" total-classes="6">
+    <verbete palavra="é">substantivo masculino</verbete>
+    <verbete palavra="ser">verbo auxiliar</verbete>
+    <verbete palavra="ser">verbo copulativo</verbete>
+    <verbete palavra="ser">verbo intransitivo</verbete>
+    <verbete palavra="ser">substantivo masculino</verbete>
+    <verbete palavra="ser">verbo transitivo</verbete>
+  </token>
+  <token string="limitado" total-classes="4">
+    <verbete palavra="limitar">verbo pronominal</verbete>
+    <verbete palavra="limitar">verbo intransitivo</verbete>
+    <verbete palavra="limitar">verbo transitivo</verbete>
+    <verbete palavra="limitado">adjetivo</verbete>
+  </token>
+  <token string="por" total-classes="1">
+    <verbete palavra="por">preposição</verbete>
+  </token>
+  <token string="uma" total-classes="1">
+    <verbete palavra="uma">substantivo feminino</verbete>
+  </token>
+  <token string="cornija" total-classes="1">
+    <verbete palavra="cornija">substantivo feminino</verbete>
+  </token>
+  <token string="tendo" total-classes="6">
+    <verbete palavra="tender">verbo intransitivo</verbete>
+    <verbete palavra="tender">verbo transitivo</verbete>
+    <verbete palavra="ter">verbo pronominal</verbete>
+    <verbete palavra="ter">verbo auxiliar</verbete>
+    <verbete palavra="ter">verbo intransitivo</verbete>
+    <verbete palavra="ter">verbo transitivo</verbete>
+  </token>
+  <token string="no" total-classes="2">
+    <verbete palavra="no">pronome pessoal</verbete>
+    <verbete palavra="no">contração</verbete>
+  </token>
+  <token string="cimo" total-classes="1">
+    <verbete palavra="cimo">substantivo masculino</verbete>
+  </token>
+  <token string="da" total-classes="1">
+    <verbete palavra="do">contração</verbete>
+  </token>
+  <token string="fachada" total-classes="1">
+    <verbete palavra="fachada">substantivo feminino</verbete>
+  </token>
+  <token string="principal" total-classes="2">
+    <verbete palavra="principal">adjetivo de dois gêneros</verbete>
+    <verbete palavra="principal">substantivo masculino</verbete>
+  </token>
+  <token string="apresenta" total-classes="2">
+    <verbete palavra="apresentar">verbo pronominal</verbete>
+    <verbete palavra="apresentar">verbo transitivo</verbete>
+  </token>
+  <token string="uma" total-classes="1">
+    <verbete palavra="uma">substantivo feminino</verbete>
+  </token>
+  <token string="Coroa" total-classes="4">
+    <verbete palavra="coroa">adjetivo de dois gêneros e substantivo de dois gêneros</verbete>
+    <verbete palavra="coroa">substantivo feminino</verbete>
+    <verbete palavra="coroar">verbo pronominal</verbete>
+    <verbete palavra="coroar">verbo transitivo</verbete>
+  </token>
+  <token string="do" total-classes="1">
+    <verbete palavra="do">contração</verbete>
+  </token>
+  <token string="Espírito" total-classes="1">
+    <verbete palavra="espírito">substantivo masculino</verbete>
+  </token>
+  <token string="Santo" total-classes="3">
+    <verbete palavra="santo">adjetivo</verbete>
+    <verbete palavra="santo">adjetivo e substantivo masculino</verbete>
+    <verbete palavra="santo">substantivo masculino</verbete>
+  </token>
+  <token string="sobre" total-classes="3">
+    <verbete palavra="sobre">preposição</verbete>
+    <verbete palavra="sobre">substantivo masculino</verbete>
+    <verbete palavra="sobrar">verbo intransitivo</verbete>
+  </token>
+  <token string="elementos" total-classes="1">
+    <verbete palavra="elemento">substantivo masculino</verbete>
+  </token>
+  <token string="decorativos"/>
+  <token string="de" total-classes="1">
+    <verbete palavra="de">preposição</verbete>
+  </token>
+  <token string="origens" total-classes="1">
+    <verbete palavra="origem">substantivo feminino</verbete>
+  </token>
+  <token string="vegetalistas" total-classes="2">
+    <verbete palavra="vegetalista">adjetivo de dois gêneros</verbete>
+    <verbete palavra="vegetalista">substantivo de dois gêneros</verbete>
+  </token>
+  <token string="O" total-classes="6">
+    <verbete palavra="o">pronome pessoal</verbete>
+    <verbete palavra="o">pronome demonstrativo</verbete>
+    <verbete palavra="o">artigo definido masculino singular</verbete>
+    <verbete palavra="o">adjetivo de dois gêneros</verbete>
+    <verbete palavra="o">símbolo</verbete>
+    <verbete palavra="o">substantivo masculino</verbete>
+  </token>
+  <token string="frontão" total-classes="1">
+    <verbete palavra="frontão">substantivo masculino</verbete>
+  </token>
+  <token string="da" total-classes="1">
+    <verbete palavra="do">contração</verbete>
+  </token>
+  <token string="fachada" total-classes="1">
+    <verbete palavra="fachada">substantivo feminino</verbete>
+  </token>
+  <token string="é" total-classes="6">
+    <verbete palavra="é">substantivo masculino</verbete>
+    <verbete palavra="ser">verbo auxiliar</verbete>
+    <verbete palavra="ser">verbo copulativo</verbete>
+    <verbete palavra="ser">verbo intransitivo</verbete>
+    <verbete palavra="ser">substantivo masculino</verbete>
+    <verbete palavra="ser">verbo transitivo</verbete>
+  </token>
+  <token string="ladeado" total-classes="2">
+    <verbete palavra="ladear">verbo intransitivo</verbete>
+    <verbete palavra="ladear">verbo transitivo</verbete>
+  </token>
+  <token string="por" total-classes="1">
+    <verbete palavra="por">preposição</verbete>
+  </token>
+  <token string="pináculos" total-classes="1">
+    <verbete palavra="pináculo">substantivo masculino</verbete>
+  </token>
+  <token string="e" total-classes="3">
+    <verbete palavra="e">conjunção coordenativa</verbete>
+    <verbete palavra="e">adjetivo de dois gêneros</verbete>
+    <verbete palavra="e">substantivo masculino</verbete>
+  </token>
+  <token string="o" total-classes="6">
+    <verbete palavra="o">pronome pessoal</verbete>
+    <verbete palavra="o">pronome demonstrativo</verbete>
+    <verbete palavra="o">artigo definido masculino singular</verbete>
+    <verbete palavra="o">adjetivo de dois gêneros</verbete>
+    <verbete palavra="o">símbolo</verbete>
+    <verbete palavra="o">substantivo masculino</verbete>
+  </token>
+  <token string="tímpano" total-classes="1">
+    <verbete palavra="tímpano">substantivo masculino</verbete>
+  </token>
+  <token string="foi" total-classes="13">
+    <verbete palavra="ir">verbo pronominal</verbete>
+    <verbete palavra="ir">verbo transitivo, intransitivo e pronominal</verbete>
+    <verbete palavra="ir">verbo intransitivo e pronominal</verbete>
+    <verbete palavra="ir">verbo auxiliar</verbete>
+    <verbete palavra="ir">verbo intransitivo</verbete>
+    <verbete palavra="ir">verbo copulativo</verbete>
+    <verbete palavra="ir">verbo transitivo</verbete>
+    <verbete palavra="Ir">símbolo</verbete>
+    <verbete palavra="ser">verbo auxiliar</verbete>
+    <verbete palavra="ser">verbo copulativo</verbete>
+    <verbete palavra="ser">verbo intransitivo</verbete>
+    <verbete palavra="ser">substantivo masculino</verbete>
+    <verbete palavra="ser">verbo transitivo</verbete>
+  </token>
+  <token string="na" total-classes="1">
+    <verbete palavra="Na">símbolo</verbete>
+  </token>
+  <token string="sua" total-classes="3">
+    <verbete palavra="sua">pronome possessivo</verbete>
+    <verbete palavra="suar">verbo intransitivo</verbete>
+    <verbete palavra="suar">verbo transitivo</verbete>
+  </token>
+  <token string="maioria" total-classes="1">
+    <verbete palavra="maioria">substantivo feminino</verbete>
+  </token>
+  <token string="preenchido" total-classes="1">
+    <verbete palavra="preencher">verbo transitivo</verbete>
+  </token>
+  <token string="por" total-classes="1">
+    <verbete palavra="por">preposição</verbete>
+  </token>
+  <token string="um" total-classes="5">
+    <verbete palavra="um">pronome indefinido</verbete>
+    <verbete palavra="um">adjetivo</verbete>
+    <verbete palavra="um">adjetivo e substantivo masculino</verbete>
+    <verbete palavra="um">adjetivo, substantivo masculino, pronome indefinido e artigo</verbete>
+    <verbete palavra="um">numeral cardinal</verbete>
+  </token>
+  <token string="elemento" total-classes="1">
+    <verbete palavra="elemento">substantivo masculino</verbete>
+  </token>
+  <token string="decorativo"/>
+  <token string="destinado" total-classes="1">
+    <verbete palavra="destinar">verbo transitivo</verbete>
+  </token>
+  <token string="a" total-classes="7">
+    <verbete palavra="a">pronome demonstrativo</verbete>
+    <verbete palavra="a">preposição</verbete>
+    <verbete palavra="a">pronome pessoal feminino</verbete>
+    <verbete palavra="a">artigo definido</verbete>
+    <verbete palavra="a">adjetivo de dois gêneros</verbete>
+    <verbete palavra="a">abreviatura</verbete>
+    <verbete palavra="a">substantivo masculino</verbete>
+  </token>
+  <token string="enquadrar" total-classes="1">
+    <verbete palavra="enquadrar">verbo transitivo</verbete>
+  </token>
+  <token string="a" total-classes="7">
+    <verbete palavra="a">pronome demonstrativo</verbete>
+    <verbete palavra="a">preposição</verbete>
+    <verbete palavra="a">pronome pessoal feminino</verbete>
+    <verbete palavra="a">artigo definido</verbete>
+    <verbete palavra="a">adjetivo de dois gêneros</verbete>
+    <verbete palavra="a">abreviatura</verbete>
+    <verbete palavra="a">substantivo masculino</verbete>
+  </token>
+  <token string="data" total-classes="1">
+    <verbete palavra="data">substantivo feminino</verbete>
+  </token>
+  <token string="de" total-classes="1">
+    <verbete palavra="de">preposição</verbete>
+  </token>
+  <token string="1913"/>
+  <token string="Este" total-classes="4">
+    <verbete palavra="este">adjetivo de dois gêneros</verbete>
+    <verbete palavra="este">adjetivo de dois gêneros e substantivo masculino</verbete>
+    <verbete palavra="este">substantivo masculino</verbete>
+    <verbete palavra="este">determinante e pronome demonstrativo</verbete>
+  </token>
+  <token string="império" total-classes="1">
+    <verbete palavra="império">substantivo masculino</verbete>
+  </token>
+  <token string="foi" total-classes="13">
+    <verbete palavra="ir">verbo pronominal</verbete>
+    <verbete palavra="ir">verbo transitivo, intransitivo e pronominal</verbete>
+    <verbete palavra="ir">verbo intransitivo e pronominal</verbete>
+    <verbete palavra="ir">verbo auxiliar</verbete>
+    <verbete palavra="ir">verbo intransitivo</verbete>
+    <verbete palavra="ir">verbo copulativo</verbete>
+    <verbete palavra="ir">verbo transitivo</verbete>
+    <verbete palavra="Ir">símbolo</verbete>
+    <verbete palavra="ser">verbo auxiliar</verbete>
+    <verbete palavra="ser">verbo copulativo</verbete>
+    <verbete palavra="ser">verbo intransitivo</verbete>
+    <verbete palavra="ser">substantivo masculino</verbete>
+    <verbete palavra="ser">verbo transitivo</verbete>
+  </token>
+  <token string="construído" total-classes="2">
+    <verbete palavra="construir">verbo pronominal</verbete>
+    <verbete palavra="construir">verbo transitivo</verbete>
+  </token>
+  <token string="em" total-classes="1">
+    <verbete palavra="em">preposição</verbete>
+  </token>
+  <token string="alvenaria"/>
+  <token string="de" total-classes="1">
+    <verbete palavra="de">preposição</verbete>
+  </token>
+  <token string="pedra" total-classes="1">
+    <verbete palavra="pedra">substantivo feminino</verbete>
+  </token>
+  <token string="rebocada" total-classes="3">
+    <verbete palavra="rebocado">adjetivo</verbete>
+    <verbete palavra="rebocar">verbo transitivo</verbete>
+    <verbete palavra="rebocar">verbo transitivo</verbete>
+  </token>
+  <token string="e" total-classes="3">
+    <verbete palavra="e">conjunção coordenativa</verbete>
+    <verbete palavra="e">adjetivo de dois gêneros</verbete>
+    <verbete palavra="e">substantivo masculino</verbete>
+  </token>
+  <token string="caiada" total-classes="2">
+    <verbete palavra="caiado">substantivo masculino</verbete>
+    <verbete palavra="caiar">verbo transitivo</verbete>
+  </token>
+  <token string="a" total-classes="7">
+    <verbete palavra="a">pronome demonstrativo</verbete>
+    <verbete palavra="a">preposição</verbete>
+    <verbete palavra="a">pronome pessoal feminino</verbete>
+    <verbete palavra="a">artigo definido</verbete>
+    <verbete palavra="a">adjetivo de dois gêneros</verbete>
+    <verbete palavra="a">abreviatura</verbete>
+    <verbete palavra="a">substantivo masculino</verbete>
+  </token>
+  <token string="cal" total-classes="2">
+    <verbete palavra="cal">substantivo feminino</verbete>
+    <verbete palavra="cal">símbolo</verbete>
+  </token>
+  <token string="de" total-classes="1">
+    <verbete palavra="de">preposição</verbete>
+  </token>
+  <token string="cor" total-classes="2">
+    <verbete palavra="cor">substantivo masculino</verbete>
+    <verbete palavra="cor">substantivo feminino</verbete>
+  </token>
+  <token string="branca" total-classes="1">
+    <verbete palavra="branca">substantivo feminino</verbete>
+  </token>
+  <token string="à" total-classes="1">
+    <verbete palavra="à">contração</verbete>
+  </token>
+  <token string="excepção"/>
+  <token string="dos" total-classes="1">
+    <verbete palavra="do">contração</verbete>
+  </token>
+  <token string="colunelos" total-classes="1">
+    <verbete palavra="colunelo">substantivo masculino</verbete>
+  </token>
+  <token string="entre" total-classes="2">
+    <verbete palavra="entre">preposição</verbete>
+    <verbete palavra="entrar">verbo intransitivo</verbete>
+  </token>
+  <token string="os" total-classes="1">
+    <verbete palavra="Os">símbolo</verbete>
+  </token>
+  <token string="vãos" total-classes="10">
+    <verbete palavra="vão">adjetivo</verbete>
+    <verbete palavra="vão">substantivo masculino</verbete>
+    <verbete palavra="ir">verbo pronominal</verbete>
+    <verbete palavra="ir">verbo transitivo, intransitivo e pronominal</verbete>
+    <verbete palavra="ir">verbo intransitivo e pronominal</verbete>
+    <verbete palavra="ir">verbo auxiliar</verbete>
+    <verbete palavra="ir">verbo intransitivo</verbete>
+    <verbete palavra="ir">verbo copulativo</verbete>
+    <verbete palavra="ir">verbo transitivo</verbete>
+    <verbete palavra="Ir">símbolo</verbete>
+  </token>
+  <token string="das" total-classes="1">
+    <verbete palavra="do">contração</verbete>
+  </token>
+  <token string="cornijas" total-classes="1">
+    <verbete palavra="cornija">substantivo feminino</verbete>
+  </token>
+  <token string="e" total-classes="3">
+    <verbete palavra="e">conjunção coordenativa</verbete>
+    <verbete palavra="e">adjetivo de dois gêneros</verbete>
+    <verbete palavra="e">substantivo masculino</verbete>
+  </token>
+  <token string="dos" total-classes="1">
+    <verbete palavra="do">contração</verbete>
+  </token>
+  <token string="elementos" total-classes="1">
+    <verbete palavra="elemento">substantivo masculino</verbete>
+  </token>
+  <token string="decorativos"/>
+  <token string="que" total-classes="14">
+    <verbete palavra="que">determinante interrogativo</verbete>
+    <verbete palavra="que">preposição</verbete>
+    <verbete palavra="que">advérbio</verbete>
+    <verbete palavra="que">pronome interrogativo</verbete>
+    <verbete palavra="que">pronome relativo</verbete>
+    <verbete palavra="que">pronome indefinido</verbete>
+    <verbete palavra="que">conjunção final</verbete>
+    <verbete palavra="que">conjunção adversativa</verbete>
+    <verbete palavra="que">conjunção copulativa</verbete>
+    <verbete palavra="que">conjunção consecutiva</verbete>
+    <verbete palavra="que">conjunção integrante</verbete>
+    <verbete palavra="que">conjunção causal</verbete>
+    <verbete palavra="que">conjunção</verbete>
+    <verbete palavra="que">conjunção comparativa</verbete>
+  </token>
+  <token string="são" total-classes="8">
+    <verbete palavra="ser">verbo auxiliar</verbete>
+    <verbete palavra="ser">verbo copulativo</verbete>
+    <verbete palavra="ser">verbo intransitivo</verbete>
+    <verbete palavra="ser">substantivo masculino</verbete>
+    <verbete palavra="ser">verbo transitivo</verbete>
+    <verbete palavra="são">adjetivo</verbete>
+    <verbete palavra="são">substantivo masculino</verbete>
+    <verbete palavra="são">adjetivo masculino</verbete>
+  </token>
+  <token string="pintados" total-classes="5">
+    <verbete palavra="pintado">adjetivo</verbete>
+    <verbete palavra="pintar">verbo pronominal</verbete>
+    <verbete palavra="pintar">verbo intransitivo</verbete>
+    <verbete palavra="pintar">substantivo masculino</verbete>
+    <verbete palavra="pintar">verbo transitivo</verbete>
+  </token>
+  <token string="de" total-classes="1">
+    <verbete palavra="de">preposição</verbete>
+  </token>
+  <token string="amarelo"/>
+  <token string="verde" total-classes="3">
+    <verbete palavra="verde">adjetivo de dois gêneros</verbete>
+    <verbete palavra="verde">adjetivo de dois gêneros e substantivo de dois gêneros</verbete>
+    <verbete palavra="verde">substantivo masculino</verbete>
+  </token>
+  <token string="e" total-classes="3">
+    <verbete palavra="e">conjunção coordenativa</verbete>
+    <verbete palavra="e">adjetivo de dois gêneros</verbete>
+    <verbete palavra="e">substantivo masculino</verbete>
+  </token>
+  <token string="vermelho" total-classes="3">
+    <verbete palavra="vermelho">adjetivo</verbete>
+    <verbete palavra="vermelho">adjetivo e substantivo masculino</verbete>
+    <verbete palavra="vermelho">substantivo masculino</verbete>
+  </token>
+  <token string="O" total-classes="6">
+    <verbete palavra="o">pronome pessoal</verbete>
+    <verbete palavra="o">pronome demonstrativo</verbete>
+    <verbete palavra="o">artigo definido masculino singular</verbete>
+    <verbete palavra="o">adjetivo de dois gêneros</verbete>
+    <verbete palavra="o">símbolo</verbete>
+    <verbete palavra="o">substantivo masculino</verbete>
+  </token>
+  <token string="soco" total-classes="5">
+    <verbete palavra="soco">substantivo masculino</verbete>
+    <verbete palavra="soco">substantivo masculino</verbete>
+    <verbete palavra="soco">interjeição</verbete>
+    <verbete palavra="soco">substantivo masculino</verbete>
+    <verbete palavra="socar">verbo transitivo</verbete>
+  </token>
+  <token string="é" total-classes="6">
+    <verbete palavra="é">substantivo masculino</verbete>
+    <verbete palavra="ser">verbo auxiliar</verbete>
+    <verbete palavra="ser">verbo copulativo</verbete>
+    <verbete palavra="ser">verbo intransitivo</verbete>
+    <verbete palavra="ser">substantivo masculino</verbete>
+    <verbete palavra="ser">verbo transitivo</verbete>
+  </token>
+  <token string="pintado" total-classes="5">
+    <verbete palavra="pintado">adjetivo</verbete>
+    <verbete palavra="pintar">verbo pronominal</verbete>
+    <verbete palavra="pintar">verbo intransitivo</verbete>
+    <verbete palavra="pintar">substantivo masculino</verbete>
+    <verbete palavra="pintar">verbo transitivo</verbete>
+  </token>
+  <token string="de" total-classes="1">
+    <verbete palavra="de">preposição</verbete>
+  </token>
+  <token string="preto" total-classes="3">
+    <verbete palavra="preto">adjetivo</verbete>
+    <verbete palavra="preto">adjetivo e substantivo masculino</verbete>
+    <verbete palavra="preto">substantivo masculino</verbete>
+  </token>
+  <token string="A" total-classes="7">
+    <verbete palavra="a">pronome demonstrativo</verbete>
+    <verbete palavra="a">preposição</verbete>
+    <verbete palavra="a">pronome pessoal feminino</verbete>
+    <verbete palavra="a">artigo definido</verbete>
+    <verbete palavra="a">adjetivo de dois gêneros</verbete>
+    <verbete palavra="a">abreviatura</verbete>
+    <verbete palavra="a">substantivo masculino</verbete>
+  </token>
+  <token string="cobertura" total-classes="1">
+    <verbete palavra="cobertura">substantivo feminino</verbete>
+  </token>
+  <token string="apresenta-se"/>
+  <token string="com" total-classes="1">
+    <verbete palavra="com">preposição</verbete>
+  </token>
+  <token string="duas" total-classes="1">
+    <verbete palavra="duas">adjetivo feminino plural e numeral cardinal</verbete>
+  </token>
+  <token string="águas" total-classes="1">
+    <verbete palavra="água">substantivo feminino</verbete>
+  </token>
+  <token string="em" total-classes="1">
+    <verbete palavra="em">preposição</verbete>
+  </token>
+  <token string="telha" total-classes="2">
+    <verbete palavra="telha">substantivo feminino</verbete>
+    <verbete palavra="telhar">verbo transitivo</verbete>
+  </token>
+  <token string="de" total-classes="1">
+    <verbete palavra="de">preposição</verbete>
+  </token>
+  <token string="meia-cana" total-classes="1">
+    <verbete palavra="meia-cana">substantivo feminino</verbete>
+  </token>
+  <token string="de" total-classes="1">
+    <verbete palavra="de">preposição</verbete>
+  </token>
+  <token string="produção" total-classes="1">
+    <verbete palavra="produção">substantivo feminino</verbete>
+  </token>
+  <token string="industrial" total-classes="2">
+    <verbete palavra="industrial">adjetivo de dois gêneros</verbete>
+    <verbete palavra="industrial">substantivo de dois gêneros</verbete>
+  </token>
+  <token string="A" total-classes="7">
+    <verbete palavra="a">pronome demonstrativo</verbete>
+    <verbete palavra="a">preposição</verbete>
+    <verbete palavra="a">pronome pessoal feminino</verbete>
+    <verbete palavra="a">artigo definido</verbete>
+    <verbete palavra="a">adjetivo de dois gêneros</verbete>
+    <verbete palavra="a">abreviatura</verbete>
+    <verbete palavra="a">substantivo masculino</verbete>
+  </token>
+  <token string="escada" total-classes="1">
+    <verbete palavra="escada">substantivo feminino</verbete>
+  </token>
+  <token string="de" total-classes="1">
+    <verbete palavra="de">preposição</verbete>
+  </token>
+  <token string="acesso" total-classes="3">
+    <verbete palavra="acesso">adjetivo</verbete>
+    <verbete palavra="acesso">substantivo masculino</verbete>
+    <verbete palavra="acessar">verbo transitivo</verbete>
+  </token>
+  <token string="foi" total-classes="13">
+    <verbete palavra="ir">verbo pronominal</verbete>
+    <verbete palavra="ir">verbo transitivo, intransitivo e pronominal</verbete>
+    <verbete palavra="ir">verbo intransitivo e pronominal</verbete>
+    <verbete palavra="ir">verbo auxiliar</verbete>
+    <verbete palavra="ir">verbo intransitivo</verbete>
+    <verbete palavra="ir">verbo copulativo</verbete>
+    <verbete palavra="ir">verbo transitivo</verbete>
+    <verbete palavra="Ir">símbolo</verbete>
+    <verbete palavra="ser">verbo auxiliar</verbete>
+    <verbete palavra="ser">verbo copulativo</verbete>
+    <verbete palavra="ser">verbo intransitivo</verbete>
+    <verbete palavra="ser">substantivo masculino</verbete>
+    <verbete palavra="ser">verbo transitivo</verbete>
+  </token>
+  <token string="feita" total-classes="1">
+    <verbete palavra="feita">substantivo feminino</verbete>
+  </token>
+  <token string="em" total-classes="1">
+    <verbete palavra="em">preposição</verbete>
+  </token>
+  <token string="madeira" total-classes="4">
+    <verbete palavra="madeirar">verbo intransitivo</verbete>
+    <verbete palavra="madeirar">verbo transitivo</verbete>
+    <verbete palavra="madeira">substantivo masculino</verbete>
+    <verbete palavra="madeira">substantivo feminino</verbete>
+  </token>
+  <token string="e" total-classes="3">
+    <verbete palavra="e">conjunção coordenativa</verbete>
+    <verbete palavra="e">adjetivo de dois gêneros</verbete>
+    <verbete palavra="e">substantivo masculino</verbete>
+  </token>
+  <token string="é" total-classes="6">
+    <verbete palavra="é">substantivo masculino</verbete>
+    <verbete palavra="ser">verbo auxiliar</verbete>
+    <verbete palavra="ser">verbo copulativo</verbete>
+    <verbete palavra="ser">verbo intransitivo</verbete>
+    <verbete palavra="ser">substantivo masculino</verbete>
+    <verbete palavra="ser">verbo transitivo</verbete>
+  </token>
+  <token string="amovível"/>
+</lista>

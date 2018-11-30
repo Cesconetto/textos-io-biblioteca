@@ -1,0 +1,18 @@
+Na teoria da complexidade computacional, um certificado (também chamado de witness ou testemunha) é uma string que certifica a resposta a um cálculo, ou garante a relação de alguma string em um idioma. Um certificado é muitas vezes visto como um ramo de solução dentro de um processo de verificação, que é usado para verificar se um problema dá a resposta "Sim" ou "Não".
+No modelo de árvore de decisão da computação, a complexidade do certificado é o número mínimo de 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   variáveis de entrada de uma árvore de decisão que precisam ser atribuído um valor, a fim de estabelecer definitivamente o valor da função booleana 
+  
+    
+      
+        f
+      
+    
+    {\displaystyle f}
+  .

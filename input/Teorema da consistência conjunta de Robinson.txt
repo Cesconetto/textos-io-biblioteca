@@ -1,0 +1,281 @@
+O Teorema da Consistência Conjunta de Robinson é um importante teorema da lógica matemática, sendo relacionado com a Interpolação de Craig e a Definibilidade de Beth.
+A formulação clássica é definida como:
+Considere 
+  
+    
+      
+        
+          T
+          
+            1
+          
+        
+      
+    
+    {\displaystyle T_{1}}
+   e 
+  
+    
+      
+        
+          T
+          
+            2
+          
+        
+      
+    
+    {\displaystyle T_{2}}
+   sendo da lógica de primeira ordem. Se 
+  
+    
+      
+        
+          T
+          
+            1
+          
+        
+      
+    
+    {\displaystyle T_{1}}
+   e 
+  
+    
+      
+        
+          T
+          
+            2
+          
+        
+      
+    
+    {\displaystyle T_{2}}
+   são consistentes e a interseção 
+  
+    
+      
+        
+          T
+          
+            1
+          
+        
+        ∩
+        
+          T
+          
+            2
+          
+        
+      
+    
+    {\displaystyle T_{1}\cap T_{2}}
+   é completa (na linguagem comum de 
+  
+    
+      
+        
+          T
+          
+            1
+          
+        
+      
+    
+    {\displaystyle T_{1}}
+   e 
+  
+    
+      
+        
+          T
+          
+            2
+          
+        
+      
+    
+    {\displaystyle T_{2}}
+  ), então a união 
+  
+    
+      
+        
+          T
+          
+            1
+          
+        
+        ∪
+        
+          T
+          
+            2
+          
+        
+      
+    
+    {\displaystyle T_{1}\cup T_{2}}
+   é consistente. Observe que a teoria é completa se ela resolve cada formula, isto é tanto 
+  
+    
+      
+        T
+        ⊢
+        φ
+      
+    
+    {\displaystyle T\vdash \varphi }
+   quanto  
+  
+    
+      
+        T
+        ⊢
+        ¬
+        φ
+      
+    
+    {\displaystyle T\vdash \neg \varphi }
+  .
+Uma vez que o pressuposto de completude é muito difícil de ser realizado, existe uma variante do teorema:
+Considere 
+  
+    
+      
+        
+          T
+          
+            1
+          
+        
+      
+    
+    {\displaystyle T_{1}}
+   e 
+  
+    
+      
+        
+          T
+          
+            2
+          
+        
+      
+    
+    {\displaystyle T_{2}}
+   sendo da lógica de primeira ordem. Se 
+  
+    
+      
+        
+          T
+          
+            1
+          
+        
+      
+    
+    {\displaystyle T_{1}}
+   e 
+  
+    
+      
+        
+          T
+          
+            2
+          
+        
+      
+    
+    {\displaystyle T_{2}}
+   são consistentes e não existe uma fórmula 
+  
+    
+      
+        φ
+      
+    
+    {\displaystyle \varphi }
+   na linguagem comum de 
+  
+    
+      
+        
+          T
+          
+            1
+          
+        
+      
+    
+    {\displaystyle T_{1}}
+   e 
+  
+    
+      
+        
+          T
+          
+            2
+          
+        
+      
+    
+    {\displaystyle T_{2}}
+   tal que 
+  
+    
+      
+        
+          T
+          
+            1
+          
+        
+        ⊢
+        φ
+      
+    
+    {\displaystyle T_{1}\vdash \varphi }
+   e 
+  
+    
+      
+        
+          T
+          
+            2
+          
+        
+        ⊢
+        ¬
+        φ
+      
+    
+    {\displaystyle T_{2}\vdash \neg \varphi }
+  , então a união 
+  
+    
+      
+        
+          T
+          
+            1
+          
+        
+        ∪
+        
+          T
+          
+            2
+          
+        
+      
+    
+    {\displaystyle T_{1}\cup T_{2}}
+   é consistente.

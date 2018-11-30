@@ -1,0 +1,27 @@
+Haplogynae é uma série de aranhas araneomorfas que não apresentam epígino, isto é carecem de placa genital endurecida, característica que as diferencia do grupo taxonómico  Entelegynae. A maioria das aranhas deste grupo tem seis olhos, sendo que alguns membros da família Caponiidae (Caponioidea) têm só quatro ou dois olhos.
+
+ +----------------Filistatidae      (109 espécies)
+    |     +----------Caponiidae(1)     (70 espécies)
+    |  +--|  +-------Tetrablemmidae(1) (126 espécies)
+    |  |  |  |  Dysderoidea:
+   -|  |  +--|  +--+-Orsolobidae       (177 espécies)
+    |  |     +--|  +-Oonopidae         (ca. 500 espécies)
+    |  |        |----Dysderidae        (ca. 500 espécies)
+    |  |        +----Segestriidae      (106 espécies)
+    +--|  "Scytodoids":     
+       |        Pholcoidea:          
+       |  +-----+----Pholcidae         (ca. 960 espécies)
+       |  |     |--+-Diguetidae        (15 espécies)
+       |  |        +-Plectreuridae     (30 espécies)
+       +--|     Leptonetoidea:
+          |  +--+----Ochyroceratidae   (146 espécies)
+          |  |  |--+-Leptonetidae      (200 espécies)
+          +--|     +-Telemidae         (22 espécies)
+             |  Scytodoidea: (2)
+             |  +----Sicariidae        (122 espécies)
+             +--|  
+                +--+-Scytodidae        (169 espécies)
+                   +-Drymusidae        (10 espécies)
+
+(1) As Caponiidae e Tetrablemmidae são consideradas como pertencentes à superfamília Caponioidea.
+(2) As Periegopidae (duas espécies), que são parte das Scytodoidea, não foram reconhecidas até 1985.Hipótese cladística para Haplogynae. O comprimento da linha não tem relação com a distância evolutiva.

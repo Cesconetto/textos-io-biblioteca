@@ -1,0 +1,9 @@
+Portsnap é um sistema para distribuição segura de imagens compactadas e digitalmente assinadas da árvore ports do FreeBSD. A distribuição segue o modelo cliente-servidor, utilizando o protocolo HTTP (pipelined HTTP).
+Desde o FreeBSD 6.0, o portsnap está integrado ao sistema base (inclusive o 5.5). Em versões anteriores era necessário instalá-lo através do ports. Ele é um programa capaz de executar sozinho, não possuindo dependências, e pode ser chamado manualmente ou através de trabalhos cron.
+De fato, ele é uma das alternativas ao método clássico antigo, o cvsup, possuindo algumas vantagens sobre ele. Entre elas:
+
+transferência segura - streaming de dados assinado e criptografado, não sendo vulnerável a ataques man-in-the-middle
+conectividade end-to-end (oposto dos espelhos com o cvsup)
+distribuição baseada em deltas - muito efetiva em atualizações pequenas e efetivas
+o protocolo HTTP é usado (ao invés do protocolo customizado pelo cvsup)Outra alteernativa ao cvsup é o CVSync, usado para gerenciar a árvore de fontes do OpenBSD, mesmo assim ele compartilha das desvantagens do cvsup.
+O pacote portsnap é distribuído sob uma licença BSD de 2 cláusulas.

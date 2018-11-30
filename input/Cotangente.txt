@@ -1,0 +1,61 @@
+A co-tangente é a proporção entre o cateto adjacente a um determinado ângulo agudo de um triângulo retângulo e o cateto oposto a este mesmo ângulo. O valor desta proporção é fixa para cada valor dos ângulos agudos do triângulo retângulo.  
+Daí, a cotangente também pode ser vista como uma função, que relaciona cada um dos possíveis valores dos ângulos agudos do triângulo retângulo ao valor da cotangente destes ângulos. (O mesmo vale para as 5 outras possíveis relações ou proporções entre 2 dos 3 lados dos triângulos retângulos, que recebem os nomes de seno, cosseno, tangente, secante e cossecante. A trigonometria estuda, exatamente, o cálculo e o comportamento destas 6 proporções ou relações nos triângulos retângulos, cujos valores são sempre fixos para cada valor de um dos ângulos agudos do triângulo retângulo.)    
+A cotangente é o inverso da tangente,, que é a proporção entre o cateto oposto a um determinado ângulo agudo de um triângulo retângulo e o cateto adjacente a este mesmo ângulo. De fato : a/b é o inverso de b/a. A cotangente também é igual à razão (divisão) entre o co-seno e o seno, o que você poderá confirmar facilmente, substituindo a ambos por suas respectivas fórmulas (cada um deles também é uma divisão) e simplificando o formato desta divisão de duas divisões, eliminando o elemento comum a ambas, que é a hipotenusa do triângulo retângulo :
+
+  
+    
+      
+        cot
+        ⁡
+        (
+        θ
+        )
+        =
+        
+          
+            1
+            
+              tan
+              ⁡
+              (
+              θ
+              )
+            
+          
+        
+      
+    
+    {\displaystyle \cot(\theta )={\frac {1}{\tan(\theta )}}}
+  
+
+  
+    
+      
+        cot
+        ⁡
+        (
+        θ
+        )
+        =
+        
+          
+            
+              cos
+              ⁡
+              (
+              θ
+              )
+            
+            
+              sen
+              ⁡
+              (
+              θ
+              )
+            
+          
+        
+      
+    
+    {\displaystyle \cot(\theta )={\frac {\cos(\theta )}{\operatorname {sen} (\theta )}}}
+  Existem várias funções trigonométricas, sendo as principais Seno, Co-seno, Tangente, Co-tangente, Secante e Co-secante; outras funções tem valor histórico, como a corda, usada por Cláudio Ptolomeu no Almagesto, que é equivalente ao seno da metade do ângulo, com o resultado convertido para graus, de forma que a corda de 60 graus fosse 60 graus.
