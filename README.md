@@ -5,4 +5,4 @@ Este repositório contém os textos de entrada e saída da ferramenta de teste u
 Os arquivos utilizados foram extraídos da Wikipedia e podem estar sob as seguintes licenças:
 
 * [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)
-* (GFDL)[http://www.gnu.org/copyleft/fdl.html]
+* [GFDL](http://www.gnu.org/copyleft/fdl.htm)
